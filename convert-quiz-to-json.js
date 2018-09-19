@@ -6,11 +6,16 @@ function cleanString (input) {
   return input.replace(/\s\s+/g, ' ').replace(/\s+\?/g, '?').replace(/\?\s+/g, '?');
 }
 
+let jsonFilesWritten = 0;
+
 fs.readdir(quizFolder, (err, files) => {
-  files.forEach(file => {
+  let quizFilesToParse = files.filter(file => {
+    return (file.substr(file.length - 4, 4) === '.txt');
+  });
+
+  quizFilesToParse.forEach(file => {
     
     fs.readFile(quizFolder + file, 'utf8', function(err, fileData) {
-      if (file.substr(file.length - 4, 4) !== '.txt') return;
 
       const lines = fileData.split('\n');
 
@@ -82,6 +87,32 @@ fs.readdir(quizFolder, (err, files) => {
 
       fs.writeFile(outputFilename, JSON.stringify(quiz, null, 2), 'utf8', err => {
         console.log('Wrote ' + outputFilename);
+
+        if (++jsonFilesWritten === quizFilesToParse.length) {
+          fs.readFile(quizFolder + 'content-skeleton.json', 'utf8', (err, data) => {
+            const skeletonContentJSON = JSON.parse(data);
+
+            skeletonContentJSON.categories.forEach(category => {
+              const categoryColor = category.color;
+
+              category.topics = category.topics.map((topic, index) => {
+                const video = topic.video;
+                const jsonFilename = topic.json;
+                const json = JSON.parse(fs.readFileSync(quizFolder + jsonFilename, 'utf8'));
+
+                json.id = index;
+                json.color = categoryColor;
+                json.video = video;
+
+                return json;
+              });
+            });
+
+            fs.writeFile(quizFolder + 'content.json', JSON.stringify(skeletonContentJSON, null, 2), 'utf8', err => {
+              console.log('Wrote content.json');
+            });
+          });
+        }
       });
 
     });

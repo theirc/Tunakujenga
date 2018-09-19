@@ -1,0 +1,790 @@
+{
+  "version": 1,
+  "preferences": {
+    "quiz-button-color": "#59A4CB",
+    "video-button-color": "#5ACBF0",
+    "wrong-answer-button-color": "#59A4CB"
+  },
+  "categories": [
+    {
+      "title": "Level 1",
+      "color": "#45B39D",
+      "topics": [
+        {
+          "id": 0,
+          "title": "KIPI KINAKOSEKANA?",
+          "color": "#45B39D",
+          "video": "",
+          "questions": [
+            {
+              "question": "Nini ulikuwa mtazamo wako wa jumla kuhusu video hii?",
+              "answers": [
+                "Niliipenda na ilikuwa inafaa",
+                "Nipo kati na nafikiri ilikuwa si yenye kufaa wala maana",
+                "Sikufurahia video na nilifikiri ilikuwa haifai"
+              ],
+              "answer-type": "multiple-choice"
+            },
+            {
+              "question": "Je, ni nini lengo la shughuli hii?",
+              "answers": [
+                "Kusaidia watoto wako kutambua njia za kutatua mgogoro",
+                "Kusaidia watoto wako kuwa makini na kukumbuka taarifa",
+                "Kusaidia watoto wako kufuatilia vitu vipya kwa ukaribu"
+              ],
+              "answer-type": "multiple-choice",
+              "correct-answer": 2
+            },
+            {
+              "question": "Je, unapaswa kufanya nini kwanza?",
+              "answers": [
+                "Unapaswa kujadili shighuli na watoto",
+                "Unapaswa kutoa kifaa kimoja wakati watoto hawakitafuti na uliza watoto kinachokosekana ni kipi",
+                "Unapaswa kuondoa vifaa vichache nje na acha watoto wako wajifunze"
+              ],
+              "answer-type": "multiple-choice",
+              "correct-answer": 3
+            },
+            {
+              "question": "Je, unapaswa kufanya nini kwa mara ya pili?",
+              "answers": [
+                "Unapaswa kujadili shighuli na watoto",
+                "Unapaswa kutoa kifaa kimoja wakati watoto hawakitafuti na uliza watoto kinachokosekana ni kipi",
+                "Unapaswa kuondoa vifaa vichache nje na acha watoto wako wajifunze"
+              ],
+              "answer-type": "multiple-choice",
+              "correct-answer": 2
+            },
+            {
+              "question": "Je, unapaswa kufanya nini kwa mara ya mwisho?",
+              "answers": [
+                "Unapaswa kujadili shighuli na watoto",
+                "Unapaswa kutoa kifaa kimoja wakati watoto hawakitafuti na uliza watoto kinachokosekana ni kipi",
+                "Unapaswa kuondoa vifaa vichache nje na acha watoto wako wajifunze "
+              ],
+              "answer-type": "multiple-choice",
+              "correct-answer": 1
+            },
+            {
+              "question": "Ni wakati gani unapata muda wa kupumuzika na watoto wako?",
+              "answers": [
+                "Asubuhi kabla watoto wangu hawajaenda shule ",
+                "Wakati wa kusali",
+                "Kwa nyakati tofauti ambayo haukutajwa hapa"
+              ],
+              "answer-type": "multiple-choice"
+            },
+            {
+              "question": "Ni wakati gani utacheza mchezo huu na watoto wako wiki ijayo?",
+              "answers": [
+                "Asubuhi kabla watoto wangu hawajaenda shule ",
+                "Wakati wa kusali",
+                "Kwa nyakati tofauti ambayo haukutajwa hapa"
+              ],
+              "answer-type": "multiple-choice"
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "title": "DONDOO",
+          "color": "#45B39D",
+          "video": "",
+          "questions": [
+            {
+              "question": "Nini ulikuwa mtazamo wako wa jumla kuhusu video hii?",
+              "answers": [
+                "Niliipenda na ilikuwa inafaa.",
+                "Nipo kati na nafikiri ilikuwa si yenye kufaa wala maana.",
+                "Sikufurahia video na nilifikiri ilikuwa haifai"
+              ],
+              "answer-type": "multiple-choice"
+            },
+            {
+              "question": "Je, ni nini lengo la shughuli hii?",
+              "answers": [
+                "Kusaidia watoto kuwa watulivu na kusimamia hisia zao wakati wa vipindi vigumu",
+                "Kusaidia watoto kufuatilia vitu vipya kwa ukaribu",
+                "Kusaidia watoto wako kuwa rafiki mwema kwa wengine"
+              ],
+              "answer-type": "multiple-choice",
+              "correct-answer": 2
+            },
+            {
+              "question": "Unapaswa kufanya nini kwanza?",
+              "answers": [
+                "Unapaswa kufikiri kitu katika kundi fulani, lakini usiwaambie watoto ni kipi, lakini tu waambie tu hilo kundi",
+                "Unapaswa kujadili shughuli na watoto",
+                "Unapaswa kuuliza watoto kubahatisha kuhusu nini unachofikiria kwa kuuliza maswali yenye majibu ya Ndio au Hapana"
+              ],
+              "answer-type": "multiple-choice",
+              "correct-answer": 1
+            },
+            {
+              "question": "Unapaswa kufanya nini kwa mara ya pili?",
+              "answers": [
+                "Unapaswa kufikiri kitu katika kundi fulani, lakini usiwaambie watoto ni kipi, lakini tu waambie tu hilo kundi",
+                "Unapaswa kujadili shughuli na watoto",
+                "Unapaswa kuuliza watoto kubahatisha kuhusu nini unachofikiria kwa kuuliza maswali yenye majibu ya Ndio au Hapana"
+              ],
+              "answer-type": "multiple-choice",
+              "correct-answer": 3
+            },
+            {
+              "question": "Unapaswa kufanya nini kwa mara ya mwisho?",
+              "answers": [
+                "Unapaswa kufikiri kitu katika kundi fulani, lakini usiwaambie watoto ni kipi, lakini tu waambie tu hilo kundi",
+                "Unapaswa kujadili shughuli na watoto",
+                "Unapaswa kuuliza watoto kubahatisha kuhusu nini unachofikiria kwa kuuliza maswali yenye majibu ya Ndio au Hapana"
+              ],
+              "answer-type": "multiple-choice",
+              "correct-answer": 2
+            },
+            {
+              "question": "Ni wakati gani unapata muda wa kupumuzika na watoto wako?",
+              "answers": [
+                "Wakati wa mlo/chakula cha jioni",
+                "Wakati tunaenda sokoni pamoja",
+                "Kwa nyakati tofauti ambao haukutajwa hapa "
+              ],
+              "answer-type": "multiple-choice"
+            },
+            {
+              "question": "Ni wakati gani utacheza mchezo huu na watoto wako wiki ijayo?",
+              "answers": [
+                "Wakati wa mlo/chakula cha jioni",
+                "Wakati tunaenda sokoni pamoja",
+                "Kwa nyakati tofauti ambao haukutajwa hapa"
+              ],
+              "answer-type": "multiple-choice"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Level 2",
+      "color": "#117A65",
+      "topics": [
+        {
+          "id": 0,
+          "title": "SURA ZENYE HISIA",
+          "color": "#117A65",
+          "video": "",
+          "questions": [
+            {
+              "question": "Nini ulikuwa mtazamo wako wa jumla kuhusu video hii?",
+              "answers": [
+                "Niliipenda na ilikuwa inafaa.",
+                "Nipo kati na nafikiri ilikuwa si yenye kufaa wala maana.",
+                "Sikufurahia video na nilifikiri ilikuwa haifai"
+              ],
+              "answer-type": "multiple-choice"
+            },
+            {
+              "question": "Je, ni nini lengo la shughuli hii?",
+              "answers": [
+                "Kusaidia mtoto wako kutambua njia za kutatua mgogoro",
+                "Kusaidia mtoto wako kutambua hisia kwa wengine",
+                "Kusaidia mtoto wako kuwa rafiki mwema kwa wengine"
+              ],
+              "answer-type": "multiple-choice",
+              "correct-answer": 2
+            },
+            {
+              "question": "Je, unapaswa kufanya nini kwanza?",
+              "answers": [
+                "Unapaswa kuigiza hisia tofauti , na watoto watakisia hii ni hisia gani.",
+                "Unapaswa omba watoto kuonesha wanavyojisikia wakati wanahisi hisia hii",
+                "Unapaswa kujadili shughuli na watoto"
+              ],
+              "answer-type": "multiple-choice",
+              "correct-answer": 1
+            },
+            {
+              "question": "Je, unapaswa kufanya nini kwa mara ya pili?",
+              "answers": [
+                "Unapaswa kuigiza hisia tofauti , na watoto watakisia hii ni hisia gani",
+                "Unapaswa omba watoto kuonesha wanavyojisikia wakati wanahisi hisia hii",
+                "Unapaswa kujadili shughuli na watoto"
+              ],
+              "answer-type": "multiple-choice",
+              "correct-answer": 2
+            },
+            {
+              "question": "Je, unapaswa kufanya nini kwa mara ya mwisho?",
+              "answers": [
+                "Unapaswa kuigiza hisia tofauti , na watoto watakisia hii ni hisia gani.",
+                "Unapaswa omba watoto kuonesha wanavyojisikia wakati wanahisi hisia hii",
+                "Unapaswa kujadili shughuli na watoto"
+              ],
+              "answer-type": "multiple-choice",
+              "correct-answer": 3
+            },
+            {
+              "question": "Ni wakati gani unapata muda wa kupumuzika na watoto wako?",
+              "answers": [
+                "Wakati tunakunywa chai",
+                "Kabla ya watoto kwenda kulala",
+                "Kwa nyakati tofauti ambayo haikutajwa hapa"
+              ],
+              "answer-type": "multiple-choice"
+            },
+            {
+              "question": "Ni wakati gani utacheza mchezo huu na watoto wako wiki ijayo?",
+              "answers": [
+                "Wakati tunakunywa chai",
+                "Kabla ya watoto kwenda kulala",
+                "Kwa nyakati tofauti ambayo haikutajwa hapa"
+              ],
+              "answer-type": "multiple-choice"
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "title": "UPUMUAJI TUMBONI",
+          "color": "#117A65",
+          "video": "",
+          "questions": [
+            {
+              "question": "Nini ulikuwa mtazamo wako wa jumla kuhusu video hii?",
+              "answers": [
+                "Niliipenda na ilikuwa inafaa",
+                "Nipo kati na nafikiri ilikuwa si yenye kufaa wala maana",
+                "Sikufurahia video na nilifikiri ilikuwa haifai"
+              ],
+              "answer-type": "multiple-choice"
+            },
+            {
+              "question": "Je, ni nini lengo la shughuli hii?",
+              "answers": [
+                "Kusaidia watoto wako kutambua hisia kwa wengine",
+                "Kusaidia watoto wako kuelekeza umakini na kukumbuka kanuni balimbali",
+                "Kusaidia watoto wako kuwa watulivu na kusimamia hisia wakati wa vipindi vigumu"
+              ],
+              "answer-type": "multiple-choice",
+              "correct-answer": 3
+            },
+            {
+              "question": "Unapaswa kufanya nini kwanza?",
+              "answers": [
+                "Vuta pumzi ndani nazitoe nje taratibu wakati ukitanua na kuminya tumbo",
+                "Unapaswa kujadili shghuli na mtoto",
+                "Weka mkono mmoja kwenye tumbo na mkono mwingine kwenye kifua halafu fumba macho"
+              ],
+              "answer-type": "multiple-choice",
+              "correct-answer": 3
+            },
+            {
+              "question": "Unapaswa kufanya nini kwa mara ya pili?",
+              "answers": [
+                "Vuta pumzi ndani nazitoe nje taratibu wakati ukitanua na kuminya tumbo",
+                "Unapaswa kujadili shghuli na mtoto",
+                "Weka mkono mmoja kwenye tumbo na mkono mwingine kwenye kifua halafu fumba macho"
+              ],
+              "answer-type": "multiple-choice",
+              "correct-answer": 1
+            },
+            {
+              "question": "Unapaswa kufanya nini kwa mara ya mwisho?",
+              "answers": [
+                "Vuta pumzi ndani nazitoe nje taratibu wakati ukitanua na kuminya tumbo",
+                "Unapaswa kujadili shghuli na mtoto",
+                "Weka mkono mmoja kwenye tumbo na mkono mwingine kwenye kifua halafu fumba macho"
+              ],
+              "answer-type": "multiple-choice",
+              "correct-answer": 2
+            },
+            {
+              "question": "Ni wakati gani unapata muda wa kupumuzika na watoto wako?",
+              "answers": [
+                "Mchana wakati hakuna mtu nyumbani",
+                "Usiku, kabla ya mtoto wangu kulala",
+                "Kwa nyakati tofauti ambayo haikutajwa hapa"
+              ],
+              "answer-type": "multiple-choice"
+            },
+            {
+              "question": "Ni wakati gani utacheza mchezo huu na watoto wako wiki ijayo?",
+              "answers": [
+                "Mchana wakati hakuna mtu nyumbani",
+                "Usiku, kabla ya mtoto wangu kulala",
+                "Kwa nyakati tofauti ambayo haikutajwa hapa"
+              ],
+              "answer-type": "multiple-choice"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Level 3",
+      "color": "#1A5276",
+      "topics": [
+        {
+          "id": 0,
+          "title": "MARAFIKI WA ASILI",
+          "color": "#1A5276",
+          "video": "",
+          "questions": [
+            {
+              "question": "Nini ulikuwa mtazamo wako wa jumla kuhusu video hii?",
+              "answers": [
+                "Niliipenda na ilikuwa inafaa.",
+                "Nipo kati na nafikiri ilikuwa si yenye kufaa wala maana.",
+                "Sikufurahia video na nilifikiri ilikuwa haifai"
+              ],
+              "answer-type": "multiple-choice"
+            },
+            {
+              "question": "Je, ni nini lengo la shughuli hii?",
+              "answers": [
+                "Kusaidia watoto wako kuthamini mtu fulani ambaye ni mchapa-kazi/ mwenye juhudi na kamwe hakati tamaa",
+                "Kusaidia watoto wako kujumuika/kuwasiliana vizuri na wengine na kuwa rafiki mwema",
+                "Kusaidia watoto wako kukumbuka vitu vipya kwa urahisi."
+              ],
+              "answer-type": "multiple-choice",
+              "correct-answer": 2
+            },
+            {
+              "question": "Je, unapaswa kufanya nini kwanza?",
+              "answers": [
+                "Unapaswa kuomba watoto wako wakueleze kuhusu mfano wa rafiki wao",
+                "Unapaswa kuomba watoto wako kuweka mfano wa rafiki kwa kutumia vitu wanavyopata",
+                "Unapaswa kuongea na watoto wako kuhusu kitu kinachofanya mtu kuwa rafiki mwema"
+              ],
+              "answer-type": "multiple-choice",
+              "correct-answer": 3
+            },
+            {
+              "question": "Je, unapaswa kufanya nini kwa mara ya pili?",
+              "answers": [
+                "Unapaswa kuomba watoto wako wakueleze kuhusu mfano wa rafiki wao",
+                "Unapaswa kuomba watoto wako kuweka mfano wa rafiki kwa kutumia vitu wanavyopata",
+                "Unapaswa kuongea na watoto wako kuhusu kitu kinachofanya mtu kuwa rafiki mwema"
+              ],
+              "answer-type": "multiple-choice",
+              "correct-answer": 2
+            },
+            {
+              "question": "Je, unapaswa kufanya nini kwa mara ya mwisho?",
+              "answers": [
+                "Unapaswa kuomba watoto wako wakueleze kuhusu mfano wa rafiki wao",
+                "Unapaswa kuomba watoto wako kuweka mfano wa rafiki kwa kutumia vitu wanavyopata",
+                "Unapaswa kuongea na watoto wako kuhusu kitu kinachofanya mtu kuwa rafiki mwema"
+              ],
+              "answer-type": "multiple-choice",
+              "correct-answer": 1
+            },
+            {
+              "question": "Ni wakati gani unapata muda wa kupumuzika na watoto wako?",
+              "answers": [
+                "Wakati watoto wanafika nyumbani kutoka shuleni",
+                "Kabla ya watoto kwenda kitandani",
+                "Kwa nyakati tafauti ambayo haikutajwa hapa"
+              ],
+              "answer-type": "multiple-choice"
+            },
+            {
+              "question": "Ni wakati gani utacheza mchezo huu na watoto wako wiki ijayo?",
+              "answers": [
+                "Wakati watoto wanafika nyumbani kutoka shuleni",
+                "Kabla ya watoto kwenda kitandani",
+                "Kwa nyakati tafauti ambayo haikutajwa hapa"
+              ],
+              "answer-type": "multiple-choice"
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "title": "KUFUNGUA KIFUNDO",
+          "color": "#1A5276",
+          "video": "",
+          "questions": [
+            {
+              "question": "Nini ulikuwa mtazamo wako wa jumla kuhusu video hii?",
+              "answers": [
+                "Niliipenda na ilikuwa inafaa.",
+                "Nipo kati na nafikiri ilikuwa si yenye kufaa wala maana.",
+                "Sikufurahia video na nilifikiri ilikuwa haifai"
+              ],
+              "answer-type": "multiple-choice"
+            },
+            {
+              "question": "Je, ni nini lengo la shughuli hii?",
+              "answers": [
+                "Kusaidia watoto kujumuika/kuwasiliana vizuri pamoja na wengine na kufanya kazi pamoja",
+                "Kusaidia mtoto wako kukumbuka vitu kwa urahisi",
+                "Kusaidia mtoto wako kutambua hisia kwa wengine"
+              ],
+              "answer-type": "multiple-choice",
+              "correct-answer": 1
+            },
+            {
+              "question": "Je, unapaswa kufanya nini kwanza?",
+              "answers": [
+                "Unapaswa kuomba watoto waachiliane mikono wenyewe: kwanza bila kuongea na baadae wawasiliane/waambizane",
+                "Unapaswa kujadili shuguli na watoto",
+                "Unapaswa kuomba watoto tano (5) au zaidi kusimama kwenye mduara na kuinua mikono ya watu wengine kwa kushikana kwa pamoja"
+              ],
+              "answer-type": "multiple-choice",
+              "correct-answer": 3
+            },
+            {
+              "question": "Je, unapaswa kufanya nini mara ya pili?",
+              "answers": [
+                "Unapaswa kuomba watoto waachiliane mikono wenyewe: kwanza bila kuongea na baadae wawasiliane/waambizane",
+                "Unapaswa kujadili shuguli na watoto",
+                "Unapaswa kuomba watoto tano (5) au zaidi kusimama kwenye mduara na kuinua mikono ya watu wengine kwa kushikana kwa pamoja"
+              ],
+              "answer-type": "multiple-choice",
+              "correct-answer": 1
+            },
+            {
+              "question": "Je, unapaswa kufanya nini mara ya mwisho?",
+              "answers": [
+                "Unapaswa kuomba watoto waachiliane mikono wenyewe: kwanza bila kuongea na baadae wawasiliane/waambizane",
+                "Unapaswa kujadili shuguli na watoto",
+                "Unapaswa kuomba watoto tano (5) au zaidi kusimama kwenye mduara na kuinua mikono ya watu wengine kwa kushikana kwa pamoja"
+              ],
+              "answer-type": "multiple-choice",
+              "correct-answer": 2
+            },
+            {
+              "question": "Ni wakati gani unapata muda wa kupumuzika na watoto wako?",
+              "answers": [
+                "Wakati watoto wangu na marafiki zao wanacheza nyuma ya nyumba na nina tazama",
+                "Asubuhi wakati watoto wangu wapo tayari kwenda shuleni",
+                "Kwa nyakati tofuti ambayo haikutajwa hapa"
+              ],
+              "answer-type": "multiple-choice"
+            },
+            {
+              "question": "Ni wakati gani utacheza mchezo huu na watoto wako wiki ijayo?",
+              "answers": [
+                "Wakati watoto wangu na marafiki zao wanacheza nyuma ya nyumba na nina tazama",
+                "Asubuhi wakati watoto wangu wapo tayari kwenda shuleni",
+                "Kwa nyakati tofuti ambayo haikutajwa hapa"
+              ],
+              "answer-type": "multiple-choice"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Level 4",
+      "color": "#1A5276",
+      "topics": [
+        {
+          "id": 0,
+          "title": "SULUHU YA HADITHI",
+          "color": "#1A5276",
+          "video": "",
+          "questions": [
+            {
+              "question": "Nini ulikuwa mtazamo wako wa jumla kuhusu video hii?",
+              "answers": [
+                "Niliipenda na ilikuwa inafaa.",
+                "Nipo kati na nafikiri ilikuwa si yenye kufaa wala maana.",
+                "Sikufurahia video na nilifikiri ilikuwa haifai"
+              ],
+              "answer-type": "multiple-choice"
+            },
+            {
+              "question": "Je, ni nini lengo la shughuli hii?",
+              "answers": [
+                "Kusaidia watoto wako kuwa makini na kukumbuka taarifa",
+                "Kusaidia marafiki wa watoto wako kufuatilia vitu kwa ukaribu",
+                "Kusaidia watoto wako kutambua njia za kutatua migogoro"
+              ],
+              "answer-type": "multiple-choice",
+              "correct-answer": 3
+            },
+            {
+              "question": "Je, unapaswa kufanya nini kwanza?",
+              "answers": [
+                "Unapaswa kueleza hadithi kuhusu marafiki wawili ambao wana mgogoro",
+                "Unapaswa kuamua kwa pamoja namna gani hadithi inaisha na namna gani mgogoro unatatuliwa",
+                "Unapaswa kujadili shughuli na mtoto"
+              ],
+              "answer-type": "multiple-choice",
+              "correct-answer": 1
+            },
+            {
+              "question": "Je, unapaswa kufanya nini kwa mara ya pili?",
+              "answers": [
+                "Unapaswa kueleza hadithi kuhusu marafiki wawili ambao wana mgogoro",
+                "Unapaswa kuamua kwa pamoja namna gani hadithi inaisha na namna gani mgogoro unatatuliwa",
+                "Unapaswa kujadili shughuli na mtoto"
+              ],
+              "answer-type": "multiple-choice",
+              "correct-answer": 2
+            },
+            {
+              "question": "Je, unapaswa kufanya nini kwa mara ya mwisho?",
+              "answers": [
+                "Unapaswa kueleza hadithi kuhusu marafiki wawili ambao wana mgogoro",
+                "Unapaswa kuamua kwa pamoja namna gani hadithi inaisha na namna gani mgogoro unatatuliwa",
+                "Unapaswa kujadili shughuli na mtoto"
+              ],
+              "answer-type": "multiple-choice",
+              "correct-answer": 3
+            },
+            {
+              "question": "Ni wakati gani unapata muda wa kupumuzika na watoto wako?",
+              "answers": [
+                "Baada ya kufika nyumbani kutoka kanisani au mskitini",
+                "Wakati ninaanda chakula cha jioni",
+                "Kwa nyakati tofauti ambazo haikutajwa hapa"
+              ],
+              "answer-type": "multiple-choice"
+            },
+            {
+              "question": "Ni wakati gani utacheza mchezo huu na watoto wako wiki ijayo?",
+              "answers": [
+                "Baada ya kufika nyumbani kutoka kanisani au mskitini",
+                "Wakati ninaanda chakula cha jioni",
+                "Kwa nyakati tofauti ambayo haikutajwa hapa"
+              ],
+              "answer-type": "multiple-choice"
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "title": "KUONDOA LAWAMA",
+          "color": "#1A5276",
+          "video": "",
+          "questions": [
+            {
+              "question": "Nini ulikuwa mtazamo wako wa jumla kuhusu video hii?",
+              "answers": [
+                "Nimeipenda na ilikua yenye kufaa sana",
+                "Nipo kati na nifikiri ilikua si yenye kufaa wala yenye maana",
+                "Sikufurahia na nilikiri ilikua haifai."
+              ],
+              "answer-type": "multiple-choice"
+            },
+            {
+              "question": "Je, ni nini lengo la shughuli hii?",
+              "answers": [
+                "kusaidia watoto wako kuthamini mtu fulani mwenye juhudi na asiyekata tamaa kamwe.",
+                "Kusaidia watoto wako kutambua hisia kwa wengine.",
+                "kusaidia watoto wako kutatua matatizo bila kulaumu mtu yeyote"
+              ],
+              "answer-type": "multiple-choice",
+              "correct-answer": 3
+            },
+            {
+              "question": "Je, unapashwa kufanya nini kwanza?",
+              "answers": [
+                "Unapashwa kuongea na watoto wako kuhusu kulaumu/lawama: ni nini na namna gani inaweza pelekea kwenye mgogoro?",
+                "Unapashwa kujadili shughuli na watoto wako",
+                "Unapashwa kusema misemo tofauti tofauti na uliza watoto kutambua kama misemo wanalaumu: badilisha misemo ya lawama iwe misemo ya kutolaumu"
+              ],
+              "answer-type": "multiple-choice",
+              "correct-answer": 1
+            },
+            {
+              "question": "Je, unapashwa kufanya nini kwa mara ya pili?",
+              "answers": [
+                "Unapashwa kuongea na watoto wako kuhusu kulaumu/lawama: ni nini na namna gani inaweza pelekea kwenye mgogoro?",
+                "Unapashwa kujadili shughuli na watoto wako",
+                "Unapashwa kusema misemo tofauti tofauti na uliza watoto kutambua kama misemo wanalaumu: badilisha misemo ya lawama iwe misemo ya kutolaumu"
+              ],
+              "answer-type": "multiple-choice",
+              "correct-answer": 3
+            },
+            {
+              "question": "Je, unapashwa kufanya nini kwa mara ya mwisho?",
+              "answers": [
+                "Unapashwa kuongea na watoto wako kuhusu kulaumu/lawama: ni nini na namna gani inaweza pelekea kwenye mgogoro?",
+                "Unapashwa kujadili shughuli na watoto wako",
+                "Unapashwa kusema misemo tofauti tofauti na uliza watoto kutambua kama misemo wanalaumu: badilisha misemo ya lawama iwe misemo ya kutolaumu"
+              ],
+              "answer-type": "multiple-choice",
+              "correct-answer": 2
+            },
+            {
+              "question": "Ni wakati gani unapata muda wa kupumuzika na watoto wako?",
+              "answers": [
+                "Wakati wa kwenda kitandani au mazoea ya mchana",
+                "Wakati wa chakula cha mchana au mazoea ya asubuhi",
+                "Kwa nyakati tofauti ambayo haikutajwa hapa"
+              ],
+              "answer-type": "multiple-choice"
+            },
+            {
+              "question": "Ni wakati gani utacheza mchezo huu na watoto wako wiki ijayo?",
+              "answers": [
+                "Wakati wa kwenda kitandani au mazoea ya mchana",
+                "Wakati wa chakula cha mchana au mazoea ya asubuhi",
+                "Kwa nyakati tofauti ambayo haikutajwa hapa"
+              ],
+              "answer-type": "multiple-choice"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Level 5",
+      "color": "#1A5276",
+      "topics": [
+        {
+          "id": 0,
+          "title": "FANYA IWE NGUMU",
+          "color": "#1A5276",
+          "video": "",
+          "questions": [
+            {
+              "question": "Nini ulikuwa mtazamo wako wa jumla kuhusu video hii?",
+              "answers": [
+                "Niliipenda na ilikuwa inafaa sana.",
+                "Nipo kati na nafikiri ilikuwa si yenye kufaa wala maana.",
+                "Sikufurahia video na nilifikiri ilikuwa haifai."
+              ],
+              "answer-type": "multiple-choice"
+            },
+            {
+              "question": "Je, ni nini lengo la shughuli hii?",
+              "answers": [
+                "Kusaidia watoto wako kujifunza kushinda changamoto na kuepuka kukata tamaa",
+                "Kusaidia watoto wako kuthamini mtu fulani ambaye ni mchapa kazi/mwenye juhudi na kamwe hakati tamaa",
+                "Kusaidia watoto wako kufuatilia vitu kwa ukaribu"
+              ],
+              "answer-type": "multiple-choice",
+              "correct-answer": 1
+            },
+            {
+              "question": "What should you do first?",
+              "answers": [
+                "Unapaswa kujadili shughuli na watoto",
+                "Unapaswa kuanza kwa kucheza mchezo rahisi wakujirudia kama vile kushika mpira",
+                "Unapaswa kufanya mchezo uwe mgumu kiasi kidogo kwa kila mzunguuko"
+              ],
+              "answer-type": "multiple-choice",
+              "correct-answer": 2
+            },
+            {
+              "question": "Je, unapaswa kufanya nini kwa mara ya pili?",
+              "answers": [
+                "Unapaswa kujadili shughuli na watoto",
+                "Unapaswa kuanza kwa kucheza mchezo rahisi wakujirudia kama vile kushika mpira",
+                "Unapaswa kufanya mchezo uwe mgumu kiasi kidogo kwa kila mzunguuko"
+              ],
+              "answer-type": "multiple-choice",
+              "correct-answer": 3
+            },
+            {
+              "question": "What should you do last?",
+              "answers": [
+                "Unapaswa kujadili shughuli na watoto",
+                "Unapaswa kuanza kwa kucheza mchezo rahisi wakujirudia kama vile kushika mpira",
+                "Unapaswa kufanya mchezo uwe mgumu kiasi kidogo kwa kila mzunguuko"
+              ],
+              "answer-type": "multiple-choice",
+              "correct-answer": 1
+            },
+            {
+              "question": "Ni wakati gani unapata muda wa kupumuzika na watoto wako?",
+              "answers": [
+                "Wakati wa kwenda kitandani au mazoea ya mchana",
+                "Wakati wa chakula cha mchan au mazoea ya saubuhi ",
+                "Kwa nyakati tofauti ambayo haikutajwa hapa"
+              ],
+              "answer-type": "multiple-choice"
+            },
+            {
+              "question": "Ni wakati gani utacheza mchezo huu na watoto wako wiki ijayo?",
+              "answers": [
+                "Wakati wa kwenda kitandani au mazoea ya mchana",
+                "Wakati wa chakula cha asubuhi au mazoea ya asubuhi",
+                "Kwa nyakati tofauti ambayo haikutajwa hapa"
+              ],
+              "answer-type": "multiple-choice"
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "title": "WIMBO WA NYOTA",
+          "color": "#1A5276",
+          "video": "",
+          "questions": [
+            {
+              "question": "Nini ulikuwa mtazamo wako wa jumla kuhusu video hii?",
+              "answers": [
+                "Niliipenda na ilikuwa inafaa",
+                "Nipo kati na nafikiri ilikuwa si yenye kufaa wala maana",
+                "Sikufurahia video na nilifikiri ilikuwa haifai"
+              ],
+              "answer-type": "multiple-choice"
+            },
+            {
+              "question": "Je, ni nini lengo la shughuli hii?",
+              "answers": [
+                "kusaidia watoto wako kuelekeza umakini na kukumbuka kanuni mbali mbali",
+                "Kusaidia watoto kuwa watulivu na kudhibiti uwazi wao wakati wa vipindi vigumu",
+                "Kusaidia watoto kuthamini mtu fulani ambaye ni chapakazi/mwenye juhudi na kamwe hakati tamaa"
+              ],
+              "answer-type": "multiple-choice",
+              "correct-answer": 2
+            },
+            {
+              "question": "Unapaswa kufanya nini kwanza?",
+              "answers": [
+                "Unapaswa kujadili shughuli na watoto",
+                "Unapaswa kuwafanya watoto wako kufikiria kuhusu mtu fulani ambaye ni nyota kwao",
+                "Unapaswa kufundisha mtoto wako wimbo wa kuimba kwa ajili ya nyota wao"
+              ],
+              "answer-type": "multiple-choice",
+              "correct-answer": 2
+            },
+            {
+              "question": "Unapaswa kufanya nini kwa mara ya pili?",
+              "answers": [
+                "Unapaswa kujadili shughuli na watoto",
+                "Unapaswa kuwafanya watoto wako kufikiria kuhusu mtu fulani ambaye ni nyota kwao",
+                "Unapaswa kufundisha mtoto wako wimbo wa kuimba kwa ajili ya nyota wao"
+              ],
+              "answer-type": "multiple-choice",
+              "correct-answer": 3
+            },
+            {
+              "question": "Unapaswa kufanya nini kwa mara ya mwisho?",
+              "answers": [
+                "Unapaswa kujadili shughuli na watoto",
+                "Unapaswa kuwafanya watoto wako kufikiria kuhusu mtu fulani ambaye ni nyota kwao",
+                "Unapaswa kufundisha mtoto wako wimbo wa kuimba kwa ajili ya nyota wao"
+              ],
+              "answer-type": "multiple-choice",
+              "correct-answer": 1
+            },
+            {
+              "question": "Ni wakati gani unapata muda wa kupumuzika na watoto wako?",
+              "answers": [
+                "Kwa siku wakati nina pumzika kufanya kazi ya nyumbani",
+                "Wakati tunatembea pamoja njiani kwenda sokoni",
+                "Kwa nyakati tofauti ambayo haikutajwa hapa"
+              ],
+              "answer-type": "multiple-choice"
+            },
+            {
+              "question": "Ni wakati gani utacheza mchezo huu na watoto wako wiki ijayo?",
+              "answers": [
+                "Kwa siku wakati nina pumzika kufanya kazi ya nyumbani",
+                "Wakati tunatembea pamoja njiani kwenda sokoni",
+                "Kwa nyakati tofauti ambayo haikutajwa hapa"
+              ],
+              "answer-type": "multiple-choice"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
