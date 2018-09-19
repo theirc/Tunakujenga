@@ -5,7 +5,7 @@
   "video": "",
   "questions": [
     {
-      "question": "Nini ulikuwa mtazamo wako wa jumla kuhusu video hii?(chagua moja ya majibu hapa chini)",
+      "question": "Nini ulikuwa mtazamo wako wa jumla kuhusu video hii?",
       "answers": [
         "Niliipenda na ilikuwa inafaa.",
         "Nipo kati na nafikiri ilikuwa si yenye kufaa wala maana.",
@@ -14,7 +14,7 @@
       "answer-type": "multiple-choice"
     },
     {
-      "question": "Je, ni nini lengo la shughuli hii?(chagua jibu sahihi)",
+      "question": "Je, ni nini lengo la shughuli hii?",
       "answers": [
         "Kusaidia watoto wako kuwa makini na kukumbuka taarifa",
         "Kusaidia marafiki wa watoto wako kufuatilia vitu kwa ukaribu",

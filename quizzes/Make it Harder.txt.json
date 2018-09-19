@@ -24,7 +24,7 @@
       "correct-answer": 1
     },
     {
-      "question": "What should you do first?(choose one correct answer)",
+      "question": "What should you do first?",
       "answers": [
         "Unapaswa kujadili shughuli na watoto",
         "Unapaswa kuanza kwa kucheza mchezo rahisi wakujirudia kama vile kushika mpira",
@@ -44,7 +44,7 @@
       "correct-answer": 3
     },
     {
-      "question": "What should you do last?(choose one correct answer)",
+      "question": "What should you do last?",
       "answers": [
         "Unapaswa kujadili shughuli na watoto",
         "Unapaswa kuanza kwa kucheza mchezo rahisi wakujirudia kama vile kushika mpira",

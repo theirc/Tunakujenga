@@ -14,7 +14,7 @@
       "answer-type": "multiple-choice"
     },
     {
-      "question": "Je, ni nini lengo la shughuli hii?(chagua jibu moja sahii)",
+      "question": "Je, ni nini lengo la shughuli hii?",
       "answers": [
         "kusaidia watoto wako kuthamini mtu fulani mwenye juhudi na asiyekata tamaa kamwe.",
         "Kusaidia watoto wako kutambua hisia kwa wengine.",
@@ -24,7 +24,7 @@
       "correct-answer": 3
     },
     {
-      "question": "Je, unapashwa kufanya nini kwanza?(chagua jimu moja sahii)",
+      "question": "Je, unapashwa kufanya nini kwanza?",
       "answers": [
         "Unapashwa kuongea na watoto wako kuhusu kulaumu/lawama: ni nini na namna gani inaweza pelekea kwenye mgogoro?",
         "Unapashwa kujadili shughuli na watoto wako",
@@ -34,7 +34,7 @@
       "correct-answer": 1
     },
     {
-      "question": "Je, unapashwa kufanya nini kwa mara ya pili?(chagua jimu moja sahii)",
+      "question": "Je, unapashwa kufanya nini kwa mara ya pili?",
       "answers": [
         "Unapashwa kuongea na watoto wako kuhusu kulaumu/lawama: ni nini na namna gani inaweza pelekea kwenye mgogoro?",
         "Unapashwa kujadili shughuli na watoto wako",
@@ -44,7 +44,7 @@
       "correct-answer": 3
     },
     {
-      "question": "Je, unapashwa kufanya nini kwa mara ya mwisho?(chagua jimu moja sahii)",
+      "question": "Je, unapashwa kufanya nini kwa mara ya mwisho?",
       "answers": [
         "Unapashwa kuongea na watoto wako kuhusu kulaumu/lawama: ni nini na namna gani inaweza pelekea kwenye mgogoro?",
         "Unapashwa kujadili shughuli na watoto wako",

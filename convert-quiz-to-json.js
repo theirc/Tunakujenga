@@ -3,9 +3,7 @@ const fs = require('fs');
 const quizFolder = './quizzes/';
 
 function cleanString (input) {
-  return input.replace(/\s\s+/g, ' ')
-              .replace(/\s*\?\s*/g, '?')
-              ;
+  return input.replace(/\s\s+/g, ' ').replace(/\s+\?/g, '?').replace(/\?\s+/g, '?');
 }
 
 fs.readdir(quizFolder, (err, files) => {
@@ -16,7 +14,7 @@ fs.readdir(quizFolder, (err, files) => {
 
       const lines = fileData.split('\n');
 
-      const title = lines.shift();
+      const title = cleanString(lines.shift());
       const questions = [];
 
       lines.shift();
@@ -49,6 +47,15 @@ fs.readdir(quizFolder, (err, files) => {
         question = question.replace(/\d+\.\s+/, '');
         question = question.replace('(chagua moja)', '');
         question = question.replace('(chagua jibu moja sahihi)', '');
+        question = question.replace('(chagua moja ya majibu hapa chini)', '');
+        question = question.replace('(chagua jibu moja sahii)', '');
+        question = question.replace('(choose one correct answer)', '');
+        question = question.replace('(chagua jibu sahihi)', '');
+        question = question.replace('(chagua jimu moja sahii)', '');
+
+        if (question.indexOf('?') !== question.length - 1 && question.charCodeAt(question.length-1) == 32) {
+          question = question.substr(0, question.length -1);
+        }
 
         let entry = {
           question: question,
