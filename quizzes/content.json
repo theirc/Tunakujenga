@@ -8,12 +8,12 @@
   "categories": [
     {
       "title": "Level 1",
-      "color": "#45B39D",
+      "color": "#F8C90F",
       "topics": [
         {
           "id": 0,
           "title": "KIPI KINAKOSEKANA?",
-          "color": "#45B39D",
+          "color": "#F8C90F",
           "video": "",
           "questions": [
             {
@@ -88,7 +88,7 @@
         {
           "id": 1,
           "title": "DONDOO",
-          "color": "#45B39D",
+          "color": "#F8C90F",
           "video": "",
           "questions": [
             {
@@ -164,12 +164,12 @@
     },
     {
       "title": "Level 2",
-      "color": "#117A65",
+      "color": "#4CB648",
       "topics": [
         {
           "id": 0,
           "title": "SURA ZENYE HISIA",
-          "color": "#117A65",
+          "color": "#4CB648",
           "video": "",
           "questions": [
             {
@@ -244,7 +244,7 @@
         {
           "id": 1,
           "title": "UPUMUAJI TUMBONI",
-          "color": "#117A65",
+          "color": "#4CB648",
           "video": "",
           "questions": [
             {
@@ -320,12 +320,12 @@
     },
     {
       "title": "Level 3",
-      "color": "#1A5276",
+      "color": "#3B8CCB",
       "topics": [
         {
           "id": 0,
           "title": "MARAFIKI WA ASILI",
-          "color": "#1A5276",
+          "color": "#3B8CCB",
           "video": "",
           "questions": [
             {
@@ -400,7 +400,7 @@
         {
           "id": 1,
           "title": "KUFUNGUA KIFUNDO",
-          "color": "#1A5276",
+          "color": "#3B8CCB",
           "video": "",
           "questions": [
             {
@@ -476,12 +476,12 @@
     },
     {
       "title": "Level 4",
-      "color": "#1A5276",
+      "color": "#8C4499",
       "topics": [
         {
           "id": 0,
           "title": "SULUHU YA HADITHI",
-          "color": "#1A5276",
+          "color": "#8C4499",
           "video": "",
           "questions": [
             {
@@ -556,7 +556,7 @@
         {
           "id": 1,
           "title": "KUONDOA LAWAMA",
-          "color": "#1A5276",
+          "color": "#8C4499",
           "video": "",
           "questions": [
             {
@@ -632,12 +632,12 @@
     },
     {
       "title": "Level 5",
-      "color": "#1A5276",
+      "color": "#EE3B48",
       "topics": [
         {
           "id": 0,
           "title": "FANYA IWE NGUMU",
-          "color": "#1A5276",
+          "color": "#EE3B48",
           "video": "",
           "questions": [
             {
@@ -660,7 +660,7 @@
               "correct-answer": 1
             },
             {
-              "question": "What should you do first?",
+              "question": "Unapaswa kufanya nini kwanza?",
               "answers": [
                 "Unapaswa kujadili shughuli na watoto",
                 "Unapaswa kuanza kwa kucheza mchezo rahisi wakujirudia kama vile kushika mpira",
@@ -680,7 +680,7 @@
               "correct-answer": 3
             },
             {
-              "question": "What should you do last?",
+              "question": "Unapaswa kufanya nini kwa mara ya mwisho?",
               "answers": [
                 "Unapaswa kujadili shughuli na watoto",
                 "Unapaswa kuanza kwa kucheza mchezo rahisi wakujirudia kama vile kushika mpira",
@@ -712,7 +712,7 @@
         {
           "id": 1,
           "title": "WIMBO WA NYOTA",
-          "color": "#1A5276",
+          "color": "#EE3B48",
           "video": "",
           "questions": [
             {
