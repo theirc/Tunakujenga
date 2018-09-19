@@ -21,7 +21,7 @@
         "Kusaidia watoto kuthamini mtu fulani ambaye ni chapakazi/mwenye juhudi na kamwe hakati tamaa"
       ],
       "answer-type": "multiple-choice",
-      "correct-answer": 0
+      "correct-answer": 2
     },
     {
       "question": "Unapaswa kufanya nini kwanza?",
@@ -31,7 +31,7 @@
         "Unapaswa kufundisha mtoto wako wimbo wa kuimba kwa ajili ya nyota wao"
       ],
       "answer-type": "multiple-choice",
-      "correct-answer": 0
+      "correct-answer": 2
     },
     {
       "question": "Unapaswa kufanya nini kwa mara ya pili?",
@@ -41,7 +41,7 @@
         "Unapaswa kufundisha mtoto wako wimbo wa kuimba kwa ajili ya nyota wao"
       ],
       "answer-type": "multiple-choice",
-      "correct-answer": 0
+      "correct-answer": 3
     },
     {
       "question": "Unapaswa kufanya nini kwa mara ya mwisho?",
@@ -51,7 +51,7 @@
         "Unapaswa kufundisha mtoto wako wimbo wa kuimba kwa ajili ya nyota wao"
       ],
       "answer-type": "multiple-choice",
-      "correct-answer": 0
+      "correct-answer": 1
     },
     {
       "question": "Ni wakati gani unapata muda wa kupumuzika na watoto wako?",
@@ -60,8 +60,7 @@
         "Wakati tunatembea pamoja njiani kwenda sokoni",
         "Kwa nyakati tofauti ambayo haikutajwa hapa"
       ],
-      "answer-type": "multiple-choice",
-      "correct-answer": 0
+      "answer-type": "multiple-choice"
     },
     {
       "question": "Ni wakati gani utacheza mchezo huu na watoto wako wiki ijayo?",
@@ -70,8 +69,7 @@
         "Wakati tunatembea pamoja njiani kwenda sokoni",
         "Kwa nyakati tofauti ambayo haikutajwa hapa"
       ],
-      "answer-type": "multiple-choice",
-      "correct-answer": 0
+      "answer-type": "multiple-choice"
     }
   ]
 }

@@ -21,57 +21,55 @@
         "Kusaidia watoto wako kufuatilia vitu kwa ukaribu"
       ],
       "answer-type": "multiple-choice",
-      "correct-answer": 0
+      "correct-answer": 1
     },
     {
-      "question": "Unapaswa kujadili shughuli na watoto",
+      "question": "What should you do first?(choose one correct answer)",
       "answers": [
+        "Unapaswa kujadili shughuli na watoto",
         "Unapaswa kuanza kwa kucheza mchezo rahisi wakujirudia kama vile kushika mpira",
-        "Unapaswa kufanya mchezo uwe mgumu kiasi kidogo kwa kila mzunguuko",
-        " "
+        "Unapaswa kufanya mchezo uwe mgumu kiasi kidogo kwa kila mzunguuko"
       ],
       "answer-type": "multiple-choice",
-      "correct-answer": 0
+      "correct-answer": 2
     },
     {
-      "question": "Unapaswa kujadili shughuli na watoto",
+      "question": "Je, unapaswa kufanya nini kwa mara ya pili?",
       "answers": [
+        "Unapaswa kujadili shughuli na watoto",
         "Unapaswa kuanza kwa kucheza mchezo rahisi wakujirudia kama vile kushika mpira",
-        "Unapaswa kufanya mchezo uwe mgumu kiasi kidogo kwa kila mzunguuko",
-        ""
+        "Unapaswa kufanya mchezo uwe mgumu kiasi kidogo kwa kila mzunguuko"
       ],
       "answer-type": "multiple-choice",
-      "correct-answer": 0
+      "correct-answer": 3
     },
     {
-      "question": "Unapaswa kujadili shughuli na watoto",
+      "question": "What should you do last?(choose one correct answer)",
       "answers": [
+        "Unapaswa kujadili shughuli na watoto",
         "Unapaswa kuanza kwa kucheza mchezo rahisi wakujirudia kama vile kushika mpira",
-        "Unapaswa kufanya mchezo uwe mgumu kiasi kidogo kwa kila mzunguuko",
-        " "
+        "Unapaswa kufanya mchezo uwe mgumu kiasi kidogo kwa kila mzunguuko"
       ],
       "answer-type": "multiple-choice",
-      "correct-answer": 0
+      "correct-answer": 1
     },
     {
-      "question": "Wakati wa kwenda kitandani au mazoea ya mchana",
+      "question": "Ni wakati gani unapata muda wa kupumuzika na watoto wako?",
       "answers": [
+        "Wakati wa kwenda kitandani au mazoea ya mchana",
         "Wakati wa chakula cha mchan au mazoea ya saubuhi ",
-        "Kwa nyakati tofauti ambayo haikutajwa hapa",
-        " "
+        "Kwa nyakati tofauti ambayo haikutajwa hapa"
       ],
-      "answer-type": "multiple-choice",
-      "correct-answer": 0
+      "answer-type": "multiple-choice"
     },
     {
-      "question": "Wakati wa kwenda kitandani au mazoea ya mchana",
+      "question": "Ni wakati gani utacheza mchezo huu na watoto wako wiki ijayo?",
       "answers": [
+        "Wakati wa kwenda kitandani au mazoea ya mchana",
         "Wakati wa chakula cha asubuhi au mazoea ya asubuhi",
-        "Kwa nyakati tofauti ambayo haikutajwa hapa",
-        ""
+        "Kwa nyakati tofauti ambayo haikutajwa hapa"
       ],
-      "answer-type": "multiple-choice",
-      "correct-answer": 0
+      "answer-type": "multiple-choice"
     }
   ]
 }

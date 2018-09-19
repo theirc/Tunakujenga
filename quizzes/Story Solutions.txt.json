@@ -21,7 +21,7 @@
         "Kusaidia watoto wako kutambua njia za kutatua migogoro"
       ],
       "answer-type": "multiple-choice",
-      "correct-answer": 0
+      "correct-answer": 3
     },
     {
       "question": "Je, unapaswa kufanya nini kwanza?",
@@ -31,7 +31,7 @@
         "Unapaswa kujadili shughuli na mtoto"
       ],
       "answer-type": "multiple-choice",
-      "correct-answer": 0
+      "correct-answer": 1
     },
     {
       "question": "Je, unapaswa kufanya nini kwa mara ya pili?",
@@ -41,7 +41,7 @@
         "Unapaswa kujadili shughuli na mtoto"
       ],
       "answer-type": "multiple-choice",
-      "correct-answer": 0
+      "correct-answer": 2
     },
     {
       "question": "Je, unapaswa kufanya nini kwa mara ya mwisho?",
@@ -51,7 +51,7 @@
         "Unapaswa kujadili shughuli na mtoto"
       ],
       "answer-type": "multiple-choice",
-      "correct-answer": 0
+      "correct-answer": 3
     },
     {
       "question": "Ni wakati gani unapata muda wa kupumuzika na watoto wako?",
@@ -60,8 +60,7 @@
         "Wakati ninaanda chakula cha jioni",
         "Kwa nyakati tofauti ambazo haikutajwa hapa"
       ],
-      "answer-type": "multiple-choice",
-      "correct-answer": 0
+      "answer-type": "multiple-choice"
     },
     {
       "question": "Ni wakati gani utacheza mchezo huu na watoto wako wiki ijayo?",
@@ -70,8 +69,7 @@
         "Wakati ninaanda chakula cha jioni",
         "Kwa nyakati tofauti ambayo haikutajwa hapa"
       ],
-      "answer-type": "multiple-choice",
-      "correct-answer": 0
+      "answer-type": "multiple-choice"
     }
   ]
 }

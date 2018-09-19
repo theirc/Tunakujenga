@@ -30,6 +30,16 @@ fs.readdir(quizFolder, (err, files) => {
           lines.shift()
         ];
 
+        let correctAnswer = -1;
+        answers = answers.map((answer, index) => {
+          let newAnswer = answer.replace('[CORRECT]', '');
+          if (answer.length !== newAnswer.length) {
+            correctAnswer = index + 1;
+            return newAnswer;
+          }
+          return answer;
+        });
+
         answers = answers.map(answer => {
           return cleanString(answer);
         });
@@ -46,8 +56,8 @@ fs.readdir(quizFolder, (err, files) => {
           'answer-type': 'multiple-choice',
         };
 
-        if (questions.length > 0) {
-          entry['correct-answer'] = 0;
+        if (correctAnswer > -1) {
+          entry['correct-answer'] = correctAnswer;
         }
 
         questions.push(entry);
