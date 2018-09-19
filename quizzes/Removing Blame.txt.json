@@ -1,0 +1,77 @@
+{
+  "id": 0,
+  "title": "KUONDOA LAWAMA",
+  "color": "#45B39D",
+  "video": "",
+  "questions": [
+    {
+      "question": "Nini ulikuwa mtazamo wako wa jumla kuhusu video hii?",
+      "answers": [
+        "Nimeipenda na ilikua yenye kufaa sana",
+        "Nipo kati na nifikiri ilikua si yenye kufaa wala yenye maana",
+        "Sikufurahia na nilikiri ilikua haifai."
+      ],
+      "answer-type": "multiple-choice"
+    },
+    {
+      "question": "Je, ni nini lengo la shughuli hii?(chagua jibu moja sahii)",
+      "answers": [
+        "kusaidia watoto wako kuthamini mtu fulani mwenye juhudi na asiyekata tamaa kamwe.",
+        "Kusaidia watoto wako kutambua hisia kwa wengine.",
+        "kusaidia watoto wako kutatua matatizo bila kulaumu mtu yeyote"
+      ],
+      "answer-type": "multiple-choice",
+      "correct-answer": 0
+    },
+    {
+      "question": "Je, unapashwa kufanya nini kwanza?(chagua jimu moja sahii)",
+      "answers": [
+        "Unapashwa kuongea na watoto wako kuhusu kulaumu/lawama: ni nini na namna gani inaweza pelekea kwenye mgogoro?",
+        "Unapashwa kujadili shughuli na watoto wako",
+        "Unapashwa kusema misemo tofauti tofauti na uliza watoto kutambua kama misemo wanalaumu: badilisha misemo ya lawama iwe misemo ya kutolaumu"
+      ],
+      "answer-type": "multiple-choice",
+      "correct-answer": 0
+    },
+    {
+      "question": "Je, unapashwa kufanya nini kwa mara ya pili?(chagua jimu moja sahii)",
+      "answers": [
+        "Unapashwa kuongea na watoto wako kuhusu kulaumu/lawama: ni nini na namna gani inaweza pelekea kwenye mgogoro?",
+        "Unapashwa kujadili shughuli na watoto wako",
+        "Unapashwa kusema misemo tofauti tofauti na uliza watoto kutambua kama misemo wanalaumu: badilisha misemo ya lawama iwe misemo ya kutolaumu"
+      ],
+      "answer-type": "multiple-choice",
+      "correct-answer": 0
+    },
+    {
+      "question": "Je, unapashwa kufanya nini kwa mara ya mwisho?(chagua jimu moja sahii)",
+      "answers": [
+        "Unapashwa kuongea na watoto wako kuhusu kulaumu/lawama: ni nini na namna gani inaweza pelekea kwenye mgogoro?",
+        "Unapashwa kujadili shughuli na watoto wako",
+        "Unapashwa kusema misemo tofauti tofauti na uliza watoto kutambua kama misemo wanalaumu: badilisha misemo ya lawama iwe misemo ya kutolaumu"
+      ],
+      "answer-type": "multiple-choice",
+      "correct-answer": 0
+    },
+    {
+      "question": "Ni wakati gani unapata muda wa kupumuzika na watoto wako?",
+      "answers": [
+        "Wakati wa kwenda kitandani au mazoea ya mchana",
+        "Wakati wa chakula cha mchana au mazoea ya asubuhi",
+        "Kwa nyakati tofauti ambayo haikutajwa hapa"
+      ],
+      "answer-type": "multiple-choice",
+      "correct-answer": 0
+    },
+    {
+      "question": "Ni wakati gani utacheza mchezo huu na watoto wako wiki ijayo?",
+      "answers": [
+        "Wakati wa kwenda kitandani au mazoea ya mchana",
+        "Wakati wa chakula cha mchana au mazoea ya asubuhi",
+        "Kwa nyakati tofauti ambayo haikutajwa hapa"
+      ],
+      "answer-type": "multiple-choice",
+      "correct-answer": 0
+    }
+  ]
+}

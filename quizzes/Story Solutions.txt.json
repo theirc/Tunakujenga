@@ -1,0 +1,77 @@
+{
+  "id": 0,
+  "title": "SULUHU YA HADITHI",
+  "color": "#45B39D",
+  "video": "",
+  "questions": [
+    {
+      "question": "Nini ulikuwa mtazamo wako wa jumla kuhusu video hii?(chagua moja ya majibu hapa chini)",
+      "answers": [
+        "Niliipenda na ilikuwa inafaa.",
+        "Nipo kati na nafikiri ilikuwa si yenye kufaa wala maana.",
+        "Sikufurahia video na nilifikiri ilikuwa haifai"
+      ],
+      "answer-type": "multiple-choice"
+    },
+    {
+      "question": "Je, ni nini lengo la shughuli hii?(chagua jibu sahihi)",
+      "answers": [
+        "Kusaidia watoto wako kuwa makini na kukumbuka taarifa",
+        "Kusaidia marafiki wa watoto wako kufuatilia vitu kwa ukaribu",
+        "Kusaidia watoto wako kutambua njia za kutatua migogoro"
+      ],
+      "answer-type": "multiple-choice",
+      "correct-answer": 0
+    },
+    {
+      "question": "Je, unapaswa kufanya nini kwanza?",
+      "answers": [
+        "Unapaswa kueleza hadithi kuhusu marafiki wawili ambao wana mgogoro",
+        "Unapaswa kuamua kwa pamoja namna gani hadithi inaisha na namna gani mgogoro unatatuliwa",
+        "Unapaswa kujadili shughuli na mtoto"
+      ],
+      "answer-type": "multiple-choice",
+      "correct-answer": 0
+    },
+    {
+      "question": "Je, unapaswa kufanya nini kwa mara ya pili?",
+      "answers": [
+        "Unapaswa kueleza hadithi kuhusu marafiki wawili ambao wana mgogoro",
+        "Unapaswa kuamua kwa pamoja namna gani hadithi inaisha na namna gani mgogoro unatatuliwa",
+        "Unapaswa kujadili shughuli na mtoto"
+      ],
+      "answer-type": "multiple-choice",
+      "correct-answer": 0
+    },
+    {
+      "question": "Je, unapaswa kufanya nini kwa mara ya mwisho?",
+      "answers": [
+        "Unapaswa kueleza hadithi kuhusu marafiki wawili ambao wana mgogoro",
+        "Unapaswa kuamua kwa pamoja namna gani hadithi inaisha na namna gani mgogoro unatatuliwa",
+        "Unapaswa kujadili shughuli na mtoto"
+      ],
+      "answer-type": "multiple-choice",
+      "correct-answer": 0
+    },
+    {
+      "question": "Ni wakati gani unapata muda wa kupumuzika na watoto wako?",
+      "answers": [
+        "Baada ya kufika nyumbani kutoka kanisani au mskitini",
+        "Wakati ninaanda chakula cha jioni",
+        "Kwa nyakati tofauti ambazo haikutajwa hapa"
+      ],
+      "answer-type": "multiple-choice",
+      "correct-answer": 0
+    },
+    {
+      "question": "Ni wakati gani utacheza mchezo huu na watoto wako wiki ijayo?",
+      "answers": [
+        "Baada ya kufika nyumbani kutoka kanisani au mskitini",
+        "Wakati ninaanda chakula cha jioni",
+        "Kwa nyakati tofauti ambayo haikutajwa hapa"
+      ],
+      "answer-type": "multiple-choice",
+      "correct-answer": 0
+    }
+  ]
+}
