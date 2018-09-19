@@ -12,292 +12,151 @@
       "topics": [
         {
           "id": 0,
-          "title": "SIMONI AVUZE",
+          "title": "KIPI KINAKOSEKANA?",
           "color": "#45B39D",
-          "video": "samuel says-hevc.mp4",
+          "video": "",
           "questions": [
             {
-              "question": "Wabonye gute muri rusangi iyi reresi?",
-              "answer-type": "multiple-choice",
+              "question": "Nini ulikuwa mtazamo wako wa jumla kuhusu video hii?",
               "answers": [
-                "Nayikunze kandi yari ngira kamaro",
-                "Ntaho mpagaze kandi nibaza ko vyoba vyari ngira kamaro canke atari ngira kamaro",
-                "Sinahimbawe n'iyi reresi kandi nibaza ko itari ngira kamaro"
-              ]
+                "Niliipenda na ilikuwa inafaa",
+                "Nipo kati na nafikiri ilikuwa si yenye kufaa wala maana",
+                "Sikufurahia video na nilifikiri ilikuwa haifai"
+              ],
+              "answer-type": "multiple-choice"
             },
             {
-              "question": "Ni ubuhe bushobozi buri muri ino reresi?",
-              "answer-type": "multiple-choice",
+              "question": "Je, ni nini lengo la shughuli hii?",
               "answers": [
-                "kwubaka ubwonko bwawe",
-                "kutadohoka",
-                "kugenzura inyiyumvo zawe"
+                "Kusaidia watoto wako kutambua njia za kutatua mgogoro",
+                "Kusaidia watoto wako kuwa makini na kukumbuka taarifa",
+                "Kusaidia watoto wako kufuatilia vitu vipya kwa ukaribu"
               ],
-              "correct-answer": 1
-            },
-            {
-              "question": "Ni iyihe ntumbero y'agakorwa?",
               "answer-type": "multiple-choice",
-              "answers": [
-                "Gufasha abanyeshure kumenya intambuko bategerezwa gufata kugira bashike ku mahangiro yabo.",
-                "Gufasha abanyeshure gushira ku muzirikanyi no kwibuka ivyo bize.",
-                "Gufasha abanyeshure kwiga gukorera mu mugwi no guhanahana ivyiyumviro umwe n'uwundi."
-              ],
               "correct-answer": 2
             },
             {
-              "question": "Ni ibihe imigwi y'abanyeshure itegerezwa gufata nka nkama muri kano gakorwa?",
-              "answer-type": "multiple-choice",
+              "question": "Je, unapaswa kufanya nini kwanza?",
               "answers": [
-                "Urutonde rw'ibishobisho vyanditswe ku rubaho.",
-                "Ibibazo vyo kubazanya mu gihe hari ikiganiro",
-                "Urukurikirane rw'ibikorwa vyakozwe n'umwigisha"
+                "Unapaswa kujadili shighuli na watoto",
+                "Unapaswa kutoa kifaa kimoja wakati watoto hawakitafuti na uliza watoto kinachokosekana ni kipi",
+                "Unapaswa kuondoa vifaa vichache nje na acha watoto wako wajifunze"
               ],
+              "answer-type": "multiple-choice",
               "correct-answer": 3
             },
             {
-              "question": "Ni ikihe kintu wotegerezwa kuba uriko urakora?",
-              "answer-type": "multiple-choice",
+              "question": "Je, unapaswa kufanya nini kwa mara ya pili?",
               "answers": [
-                "Notegerezwa guhindura umurwi watanguye ubwa mbere ku muzunguruko uwo ariwo wose kugira ngo imigwi yose igire amahirwe yo kuba iya mbere, iya kari iya gatatu canke ubwa nyuma.",
-                "Notegerezwa kubwira abanyeshure urutonde mu gihe batavyibuka bonyene ubwabo",
-                "Notegerezwa kuraba ko abanyeshure bose bimenyereje ku mwanya umwe"
+                "Unapaswa kujadili shighuli na watoto",
+                "Unapaswa kutoa kifaa kimoja wakati watoto hawakitafuti na uliza watoto kinachokosekana ni kipi",
+                "Unapaswa kuondoa vifaa vichache nje na acha watoto wako wajifunze"
               ],
-              "correct-answer": 1
-            },
-            {
-              "question": "Ni ikihe kintu wotegerezwa kuba uriko urakora?",
               "answer-type": "multiple-choice",
-              "answers": [
-                "Notegerezwa gukarira abanyeshure",
-                "Notegerezwa kukagumisha mu kwongeramwo ibikorwa vyinshi canke kugenda nihutisha ibikorwa",
-                "Notegerezwa guhata abanyeshure kwishura inyishu zibereye"
-              ],
               "correct-answer": 2
             },
             {
-              "question": "Ni ikihe kintu wotegerezwa kuba uriko urakora?",
-              "answer-type": "multiple-choice",
+              "question": "Je, unapaswa kufanya nini kwa mara ya mwisho?",
               "answers": [
-                "Notegerezwa gusaba abanyeshure bakuze gusubiramwo ibikorwa basubira inyuma canke ngasaba umugwi uwo ariwo wose kwongeramwo igikorwa mu rukurikirane rw'ibikorwa kugira ngo uwundi mugwi uvyibuke",
-                "Notegerezwa gukora ibikorwa vyinshi mu rukurikirane rw'abana bato",
-                "Notegerezwa kubasigurira amategeko gusa sindabereke uko bikorwa"
+                "Unapaswa kujadili shighuli na watoto",
+                "Unapaswa kutoa kifaa kimoja wakati watoto hawakitafuti na uliza watoto kinachokosekana ni kipi",
+                "Unapaswa kuondoa vifaa vichache nje na acha watoto wako wajifunze "
               ],
+              "answer-type": "multiple-choice",
               "correct-answer": 1
             },
             {
-              "question": "Ni akahe karore k'ikibazo wobaza abanyeshure bawe mu mwanya w'ikiganiro c'aka gakorwa hitamwo inyishu imwe ibereye)",
-              "answer-type": "multiple-choice",
+              "question": "Ni wakati gani unapata muda wa kupumuzika na watoto wako?",
               "answers": [
-                "Ni gute woshobora gukorera mu runani hamwe n'abandi mu buzima bwa misi yose?",
-                "Ni ubuhe buhinga wakoresheje bwagufashije kwibuka ibikorwa n'urutonde?",
-                "Ni ubuhe bumenyi wakoresheje mu kugenzura ibishobisho vyawe?"
+                "Asubuhi kabla watoto wangu hawajaenda shule ",
+                "Wakati wa kusali",
+                "Kwa nyakati tofauti ambayo haukutajwa hapa"
               ],
-              "correct-answer": 2
+              "answer-type": "multiple-choice"
             },
             {
-              "question": "Wokora iki mu gihe abanyeshure bawe badakoze neza ako gakorwa mu mwanya wa mbere bimenyereje?",
-              "answer-type": "multiple-choice",
+              "question": "Ni wakati gani utacheza mchezo huu na watoto wako wiki ijayo?",
               "answers": [
-                "Notegerezwa kwongeramwo ibikorwa vyinshi mu rukurikirane rwanje kugera abanyeshure batahuye",
-                "Notegerezwa guhagarika igikorwa no kutongera kugakina kandi",
-                "Notegerezwa gutangura kwimenyereza n'igitigiri gito mu rukurikirane rwanje kandi nkimenyereza agakorwa imisi yose"
+                "Asubuhi kabla watoto wangu hawajaenda shule ",
+                "Wakati wa kusali",
+                "Kwa nyakati tofauti ambayo haukutajwa hapa"
               ],
-              "correct-answer": 3
+              "answer-type": "multiple-choice"
             }
           ]
         },
         {
           "id": 1,
-          "title": "UMUTWE IBITUGU AMAVI AMANO",
+          "title": "DONDOO",
           "color": "#45B39D",
-          "video": "[03] Head Shoulders Knees Toes.mp4",
+          "video": "",
           "questions": [
             {
-              "question": "Wabonye gute muri rusangi iyi reresi?",
-              "answer-type": "multiple-choice",
+              "question": "Nini ulikuwa mtazamo wako wa jumla kuhusu video hii?",
               "answers": [
-                "Nayikunze kandi yari ngira kamaro",
-                "Ntaho mpagaze kandi nibaza ko vyoba vyari ngira kamaro canke atari ngira kamaro",
-                "Sinahimbawe n'iyi reresi kandi nibaza ko itari ngira kamaro"
-              ]
+                "Niliipenda na ilikuwa inafaa.",
+                "Nipo kati na nafikiri ilikuwa si yenye kufaa wala maana.",
+                "Sikufurahia video na nilifikiri ilikuwa haifai"
+              ],
+              "answer-type": "multiple-choice"
             },
             {
-              "question": "Ni ubuhe bushobozi buri muri ino reresi?",
-              "answer-type": "multiple-choice",
+              "question": "Je, ni nini lengo la shughuli hii?",
               "answers": [
-                "Gukorera mu runani rwiza",
-                "kwubaka ubwonko bwawe",
-                "kugenzura inyiyumvo zawe"
+                "Kusaidia watoto kuwa watulivu na kusimamia hisia zao wakati wa vipindi vigumu",
+                "Kusaidia watoto kufuatilia vitu vipya kwa ukaribu",
+                "Kusaidia watoto wako kuwa rafiki mwema kwa wengine"
               ],
+              "answer-type": "multiple-choice",
               "correct-answer": 2
             },
             {
-              "question": "Ni iyihe ntumbero y'agakorwa?",
-              "answer-type": "multiple-choice",
+              "question": "Unapaswa kufanya nini kwanza?",
               "answers": [
-                "Gufasha abanyeshure kumenya ibishobisho vyabo no kwitekanya",
-                "Gufasha abanyeshure guhindura integuro mu gihe bahuye n'intambamyi",
-                "Gufasha abanyeshure kwibuka amategeko agoye no kubafasha kwiyumvira imbere yo gukora"
+                "Unapaswa kufikiri kitu katika kundi fulani, lakini usiwaambie watoto ni kipi, lakini tu waambie tu hilo kundi",
+                "Unapaswa kujadili shughuli na watoto",
+                "Unapaswa kuuliza watoto kubahatisha kuhusu nini unachofikiria kwa kuuliza maswali yenye majibu ya Ndio au Hapana"
               ],
-              "correct-answer": 3
-            },
-            {
-              "question": "Ni gute wogora abanyeshure muri kano gakorwa",
               "answer-type": "multiple-choice",
-              "answers": [
-                "Mu kubabaza kwiyumvira ukugene botatura impari canke imishamirano",
-                "Mu gukabukanya ibihimba vy'umubiri nk'uku - mu gihe mvuze nti \"kora ku mano, aho wari gukora ku mutwe\"",
-                "Mu gusaba abanyeshure gukora ku bihimba vyinshi bitandukanye vy'umubiri mu kanya gato"
-              ],
-              "correct-answer": 2
-            },
-            {
-              "question": "Ni ikihe kintu wotegerezwa kuba uriko urakora?",
-              "answer-type": "multiple-choice",
-              "answers": [
-                "Notegertezwa misi yose gutanga ivyisungwa mu rutonde rutandukanye mu kuvangamwo amategeko nka: \"kora ku mutwe\", \"kora ku bitugu\", \"kora ku mavi\" canke \"kora ku mano\"",
-                "Notegerezwa gutangura kino gikorwa mu gutanga ivyisungwa mu rutonde rumwe: kora ku mutwe, ibitugu, amavi, hanyuma amano.",
-                "Nokwizigira ko abanyeshure bobikora neza mu kwimenyereza ubwa mbere"
-              ],
-              "correct-answer": 2
-            },
-            {
-              "question": "Ni ikihe kintu wotegerezwa kuba uriko urakora?",
-              "answer-type": "multiple-choice",
-              "answers": [
-                "Notegerezwa kudomako urutoke ku banyeshure mu gihe bariko baritwara uko bitabereye no gukoresha inzira zo kubatera intege",
-                "Notegerazwa kugumiza ibihimba vy'umubiri ku rutonde rumwe ibihe vyose",
-                "Notegerezwa guhagarika kwimenyereza hamwe n'abanyeshure mugihe badakoze neza umwimenyerezo wa mbere."
-              ],
               "correct-answer": 1
             },
             {
-              "question": "Ni ikihe kintu wotegerezwa kutaba uriko urakora?",
-              "answer-type": "multiple-choice",
+              "question": "Unapaswa kufanya nini kwa mara ya pili?",
               "answers": [
-                "Sinotegerezwa gutera intege abanyeshure ngo bongere bagerageze kandi naho boba bakoze ikosa.",
-                "Sinotegerezwa gukabukanya amazina y'ibihimba vy'umubiri",
-                "Sinotegerezwa kugira agakorwa akagoye mu kunyarutsa canke mu kwongerako amategeko mu gihe abana biriko birabagumira"
+                "Unapaswa kufikiri kitu katika kundi fulani, lakini usiwaambie watoto ni kipi, lakini tu waambie tu hilo kundi",
+                "Unapaswa kujadili shughuli na watoto",
+                "Unapaswa kuuliza watoto kubahatisha kuhusu nini unachofikiria kwa kuuliza maswali yenye majibu ya Ndio au Hapana"
               ],
+              "answer-type": "multiple-choice",
               "correct-answer": 3
             },
             {
-              "question": "Ni ibiki umunyeshure yotegerezwa kuvuga mu mwanya wo kurongora ikiganiro c'agakorwa?",
-              "answer-type": "multiple-choice",
+              "question": "Unapaswa kufanya nini kwa mara ya mwisho?",
               "answers": [
-                "Vyari bigoye kumenya ibishobisho umugenzi wanje yari yiyumva",
-                "Vyari bigoye kwibuka gukora ahantu hatandukanye kuvyo umwigisha yariko aravuga",
-                "Nize ku bijanye n'umwumvikano"
+                "Unapaswa kufikiri kitu katika kundi fulani, lakini usiwaambie watoto ni kipi, lakini tu waambie tu hilo kundi",
+                "Unapaswa kujadili shughuli na watoto",
+                "Unapaswa kuuliza watoto kubahatisha kuhusu nini unachofikiria kwa kuuliza maswali yenye majibu ya Ndio au Hapana"
               ],
+              "answer-type": "multiple-choice",
               "correct-answer": 2
             },
             {
-              "question": "Ni kubera iki ari ngira kamaro imisi yose kuvuga ivyisungwa mu rutonde rumwe: kora ku mutwe,ku bitugu, ku mavi hanyuma ku mano?",
-              "answer-type": "multiple-choice",
+              "question": "Ni wakati gani unapata muda wa kupumuzika na watoto wako?",
               "answers": [
-                "Ni ngira kamaro gutanga ivisungwa mu rutonde rumwe kuko bifasha abanyeshure gufata urutonde",
-                "Ni ngira kamaro gutanga ivisungwa mu rutonde rumwe kuko bifasha abanyeshure gufata nka nkama mu kwibuka amategeko ha kubaha urutonde rugumye",
-                "Ni ngira kamaro gutanga ivyisungwa mu rutonde rumwe kuko abanyeshure bazobazwa ku rutonde"
+                "Wakati wa mlo/chakula cha jioni",
+                "Wakati tunaenda sokoni pamoja",
+                "Kwa nyakati tofauti ambao haukutajwa hapa "
               ],
-              "correct-answer": 2
-            }
-          ]
-        },
-        {
-          "id": 2,
-          "title": "URUKURIKIRANE",
-          "color": "#45B39D",
-          "video": "[05] Sequence.mp4",
-          "questions": [
-            {
-              "question": "Wabonye gute muri rusangi iyi reresi?",
-              "answer-type": "multiple-choice",
-              "answers": [
-                "Nayikunze kandi yari ngira kamaro",
-                "Ntaho mpagaze kandi nibaza ko vyoba vyari ngira kamaro canke atari ngira kamaro",
-                "Sinahimbawe n'iyi reresi kandi nibaza ko itari ngira kamaro"
-              ]
+              "answer-type": "multiple-choice"
             },
             {
-              "question": "Ni ubuhe bushobozi buri muri ino reresi?",
-              "answer-type": "multiple-choice",
+              "question": "Ni wakati gani utacheza mchezo huu na watoto wako wiki ijayo?",
               "answers": [
-                "kwubaka ubwonko bwawe",
-                "kutadohoka",
-                "kugenzura inyiyumvo zawe"
+                "Wakati wa mlo/chakula cha jioni",
+                "Wakati tunaenda sokoni pamoja",
+                "Kwa nyakati tofauti ambao haukutajwa hapa"
               ],
-              "correct-answer": 1
-            },
-            {
-              "question": "Ni iyihe ntumbero y'agakorwa?",
-              "answer-type": "multiple-choice",
-              "answers": [
-                "Gufasha abanyeshure kumenya intambuko bategerezwa gufata kugira bashike ku mahangiro yabo.",
-                "Gufasha abanyeshure gushira ku muzirikanyi no kwibuka ivyo bize.",
-                "Gufasha abanyeshure kwiga gukorera mu mugwi no guhanahana ivyiyumviro umwe n'uwundi."
-              ],
-              "correct-answer": 2
-            },
-            {
-              "question": "Ni ibihe imigwi y'abanyeshure itegerezwa gufata nka nkama muri kano gakorwa?",
-              "answer-type": "multiple-choice",
-              "answers": [
-                "Urutonde rw'ibishobisho vyanditswe ku rubaho.",
-                "Ibibazo vyo kubazanya mu gihe hari ikiganiro",
-                "Urukurikirane rw'ibikorwa vyakozwe n'umwigisha"
-              ],
-              "correct-answer": 3
-            },
-            {
-              "question": "Ni ikihe kintu wotegerezwa kuba uriko urakora?",
-              "answer-type": "multiple-choice",
-              "answers": [
-                "Notegerezwa guhindura umurwi watanguye ubwa mbere ku muzunguruko uwo ariwo wose kugira ngo imigwi yose igire amahirwe yo kuba iya mbere, iya kari iya gatatu canke ubwa nyuma.",
-                "Notegerezwa kubwira abanyeshure urutonde mu gihe batavyibuka bonyene ubwabo",
-                "Notegerezwa kuraba ko abanyeshure bose bimenyereje ku mwanya umwe"
-              ],
-              "correct-answer": 1
-            },
-            {
-              "question": "Ni ikihe kintu wotegerezwa kuba uriko urakora?",
-              "answer-type": "multiple-choice",
-              "answers": [
-                "Notegerezwa gukarira abanyeshure",
-                "Notegerezwa kukagumisha mu kwongeramwo ibikorwa vyinshi canke kugenda nihutisha ibikorwa",
-                "Notegerezwa guhata abanyeshure kwishura inyishu zibereye"
-              ],
-              "correct-answer": 2
-            },
-            {
-              "question": "Ni ikihe kintu wotegerezwa kuba uriko urakora?",
-              "answer-type": "multiple-choice",
-              "answers": [
-                "Notegerezwa gusaba abanyeshure bakuze gusubiramwo ibikorwa basubira inyuma canke ngasaba umugwi uwo ariwo wose kwongeramwo igikorwa mu rukurikirane rw'ibikorwa kugira ngo uwundi mugwi uvyibuke",
-                "Notegerezwa gukora ibikorwa vyinshi mu rukurikirane rw'abana bato",
-                "Notegerezwa kubasigurira amategeko gusa sindabereke uko bikorwa"
-              ],
-              "correct-answer": 1
-            },
-            {
-              "question": "Ni akahe karore k'ikibazo wobaza abanyeshure bawe mu mwanya w'ikiganiro c'aka gakorwa hitamwo inyishu imwe ibereye)",
-              "answer-type": "multiple-choice",
-              "answers": [
-                "Ni gute woshobora gukorera mu runani hamwe n'abandi mu buzima bwa misi yose?",
-                "Ni ubuhe buhinga wakoresheje bwagufashije kwibuka ibikorwa n'urutonde?",
-                "Ni ubuhe bumenyi wakoresheje mu kugenzura ibishobisho vyawe?"
-              ],
-              "correct-answer": 2
-            },
-            {
-              "question": "Wokora iki mu gihe abanyeshure bawe badakoze neza ako gakorwa mu mwanya wa mbere bimenyereje?",
-              "answer-type": "multiple-choice",
-              "answers": [
-                "Notegerezwa kwongeramwo ibikorwa vyinshi mu rukurikirane rwanje kugera abanyeshure batahuye",
-                "Notegerezwa guhagarika igikorwa no kutongera kugakina kandi",
-                "Notegerezwa gutangura kwimenyereza n'igitigiri gito mu rukurikirane rwanje kandi nkimenyereza agakorwa imisi yose"
-              ],
-              "correct-answer": 3
+              "answer-type": "multiple-choice"
             }
           ]
         }
@@ -309,292 +168,151 @@
       "topics": [
         {
           "id": 0,
-          "title": "TOMBOZA IBISHOBISHO VYANJE",
+          "title": "SURA ZENYE HISIA",
           "color": "#117A65",
-          "video": "[04] Guess My Emotions.mp4",
+          "video": "",
           "questions": [
             {
-              "question": "Wabonye gute muri rusangi iyi reresi?",
-              "answer-type": "multiple-choice",
+              "question": "Nini ulikuwa mtazamo wako wa jumla kuhusu video hii?",
               "answers": [
-                "Nayikunze kandi yari ngira kamaro",
-                "Ntaho mpagaze kandi nibaza ko vyoba vyari ngira kamaro canke atari ngira kamaro",
-                "Sinahimbawe n'iyi reresi kandi nibaza ko itari ngira kamaro"
-              ]
+                "Niliipenda na ilikuwa inafaa.",
+                "Nipo kati na nafikiri ilikuwa si yenye kufaa wala maana.",
+                "Sikufurahia video na nilifikiri ilikuwa haifai"
+              ],
+              "answer-type": "multiple-choice"
             },
             {
-              "question": "Ni ubuhe bushobozi buri muri ino reresi?",
-              "answer-type": "multiple-choice",
+              "question": "Je, ni nini lengo la shughuli hii?",
               "answers": [
-                "kutadohoka",
-                "kwubaka ubwonko bwawe",
-                "kugenzura inyiyumvo zawe"
+                "Kusaidia mtoto wako kutambua njia za kutatua mgogoro",
+                "Kusaidia mtoto wako kutambua hisia kwa wengine",
+                "Kusaidia mtoto wako kuwa rafiki mwema kwa wengine"
               ],
-              "correct-answer": 3
-            },
-            {
-              "question": "Ni iyihe ntumbero y'agakorwa?",
               "answer-type": "multiple-choice",
-              "answers": [
-                "Gufasha abanyeshure kwitaho no gufatan ku mutwe inkuru",
-                "Gufasha abanyeshure kuvuga, kwibuka no kwerekana ibishobisho bitandukanye",
-                "Gufasha abanyeshure kwiga ukugene botatura impari"
-              ],
               "correct-answer": 2
             },
             {
-              "question": "Ni amahirwe angana gute umurwi w'abanyeshure uhabwa mu gutomboza igishogisho nyakuri?",
-              "answer-type": "multiple-choice",
+              "question": "Je, unapaswa kufanya nini kwanza?",
               "answers": [
-                "Umurwi w'abanyeshure uhabwa amahirwe incuro zitatu mu gutomboza igishogisho nyakuri",
-                "Umurwi w'abanyeshure utegerezwa gutomboza igishogisho nyakuri ku ncuro ya mbere",
-                "Umurwi w'abanyeshure ufise amahirwe adaharurika mu gutomboza igishogisho nyakuri."
+                "Unapaswa kuigiza hisia tofauti , na watoto watakisia hii ni hisia gani.",
+                "Unapaswa omba watoto kuonesha wanavyojisikia wakati wanahisi hisia hii",
+                "Unapaswa kujadili shughuli na watoto"
               ],
+              "answer-type": "multiple-choice",
               "correct-answer": 1
             },
             {
-              "question": "Ni ikihe kintu wotegerezwa kuba uriko urakora?",
-              "answer-type": "multiple-choice",
+              "question": "Je, unapaswa kufanya nini kwa mara ya pili?",
               "answers": [
-                "Notegerezwa guhana abanyere badashoboye gutomboza igishogisho nyakuri",
-                "Notegerezwa guha umurwi umwe  amahirwe aruta ayo uwundi",
-                "Notegerezwa guhitamwo abanyeshure batandukanye mu kwerekana ibishobisho buri mwanya hamwe no kubihamagariramwo abanyamugwi bose mu gutomboza"
+                "Unapaswa kuigiza hisia tofauti , na watoto watakisia hii ni hisia gani",
+                "Unapaswa omba watoto kuonesha wanavyojisikia wakati wanahisi hisia hii",
+                "Unapaswa kujadili shughuli na watoto"
               ],
+              "answer-type": "multiple-choice",
+              "correct-answer": 2
+            },
+            {
+              "question": "Je, unapaswa kufanya nini kwa mara ya mwisho?",
+              "answers": [
+                "Unapaswa kuigiza hisia tofauti , na watoto watakisia hii ni hisia gani.",
+                "Unapaswa omba watoto kuonesha wanavyojisikia wakati wanahisi hisia hii",
+                "Unapaswa kujadili shughuli na watoto"
+              ],
+              "answer-type": "multiple-choice",
               "correct-answer": 3
             },
             {
-              "question": "Ni ikihe kintu wotegerezwa kuba uriko urakora?",
-              "answer-type": "multiple-choice",
+              "question": "Ni wakati gani unapata muda wa kupumuzika na watoto wako?",
               "answers": [
-                "Notegerezwa kwongorera mu gutwi igishogisho catowe abanyeshure badashoboye gusoma",
-                "Notegerezwa guha umurwi umwe  amahirwe aruta ayo uwundi",
-                "Nogerageza gutuma umurwi utomboza ibishobisho ningoga na ningoga"
+                "Wakati tunakunywa chai",
+                "Kabla ya watoto kwenda kulala",
+                "Kwa nyakati tofauti ambayo haikutajwa hapa"
               ],
-              "correct-answer": 1
+              "answer-type": "multiple-choice"
             },
             {
-              "question": "Ni ikihe kintu wotegerezwa kuba uriko urakora?",
-              "answer-type": "multiple-choice",
+              "question": "Ni wakati gani utacheza mchezo huu na watoto wako wiki ijayo?",
               "answers": [
-                "Notegerezwa gusaba abanyeshure kumfasha kwandika ibishobisho cumi batoye neza mu gakorwa",
-                "Notegerezwa kubwira umunyeshure uko yerekana igishogisho",
-                "Notegerezwa kureka abanyeshure bagatomboza ibishobisho vyinshi mu kubivuga n'ijwi rirenga"
+                "Wakati tunakunywa chai",
+                "Kabla ya watoto kwenda kulala",
+                "Kwa nyakati tofauti ambayo haikutajwa hapa"
               ],
-              "correct-answer": 1
-            },
-            {
-              "question": "Ni ibiki umunyeshure yotegerezwa kuvuga mu mwanya wo kurongora ikiganiro c'agakorwa?",
-              "answer-type": "multiple-choice",
-              "answers": [
-                "Nize ukugene nokwitaho ugukurikirana",
-                "Nize ko mu gihe mbonye umuntu yerekana umubabaro notegerezwa kubitahura",
-                "Nize ukuntu nshobora kumenya inyiyumva za bagenzanje"
-              ],
-              "correct-answer": 3
-            },
-            {
-              "question": "Ni akarorero akahe k'igishogisho woshobora kwandika ku gahimba k'urupapuro muri aka gakorwa?",
-              "answer-type": "multiple-choice",
-              "answers": [
-                "Gukina umupira w'amaguru",
-                "Kwoga",
-                "Gutangara"
-              ],
-              "correct-answer": 3
+              "answer-type": "multiple-choice"
             }
           ]
         },
         {
           "id": 1,
-          "title": "WOKWIYUMVA GUTE?",
+          "title": "UPUMUAJI TUMBONI",
           "color": "#117A65",
-          "video": "[01] How Would You Feel.mp4",
+          "video": "",
           "questions": [
             {
-              "question": "Wabonye gute muri rusangi iyi reresi?",
-              "answer-type": "multiple-choice",
-              "answers":[
-                "Nayikunze kandi yari ngira kamaro",
-                "Ntaho mpagaze kandi nibaza ko vyoba vyari ngira kamaro canke atari ngira kamaro ",
-                "Sinahimbawe n'iyi reresi kandi nibaza ko itari ngira kamaro "
-              ]
+              "question": "Nini ulikuwa mtazamo wako wa jumla kuhusu video hii?",
+              "answers": [
+                "Niliipenda na ilikuwa inafaa",
+                "Nipo kati na nafikiri ilikuwa si yenye kufaa wala maana",
+                "Sikufurahia video na nilifikiri ilikuwa haifai"
+              ],
+              "answer-type": "multiple-choice"
             },
             {
-              "question": "Ni ubuhe bushobozi buri muri ino reresi?",
-              "answer-type": "multiple-choice",
-              "answers":[
-                "Gukorera mu runani rwiza  ",
-                "Gutatura impari n'amatati ",
-                "Kugenzura inyiyumvo zawe "
+              "question": "Je, ni nini lengo la shughuli hii?",
+              "answers": [
+                "Kusaidia watoto wako kutambua hisia kwa wengine",
+                "Kusaidia watoto wako kuelekeza umakini na kukumbuka kanuni balimbali",
+                "Kusaidia watoto wako kuwa watulivu na kusimamia hisia wakati wa vipindi vigumu"
               ],
+              "answer-type": "multiple-choice",
               "correct-answer": 3
             },
             {
-              "question": "Ni iyihe ntumbero y'agakorwa?",
-              "answer-type": "multiple-choice",
-              "answers":[
-                "Gufasha abanyeshure gukora neza nk'umurwi",
-                "Gufasha abanyeshure kumenya uko bokwiyumva bafatiye ku biba biriko biraba ",
-                "Gufasha abanyeshure kubaza ibibazo bijanye n'impari canke amatati"
+              "question": "Unapaswa kufanya nini kwanza?",
+              "answers": [
+                "Vuta pumzi ndani nazitoe nje taratibu wakati ukitanua na kuminya tumbo",
+                "Unapaswa kujadili shghuli na mtoto",
+                "Weka mkono mmoja kwenye tumbo na mkono mwingine kwenye kifua halafu fumba macho"
               ],
-              "correct-answer": 2
-            },
-            {
-              "question": "Ni ryari abana bokwerekana igiharuro c'igishogisho bokwiyumva?",
               "answer-type": "multiple-choice",
-              "answers":[
-                "muri urya mwanya nyene umwigisha ariko aravuga agakuru",
-                "Inyuma yuko umwigisha ahejeje kuvuga udukuru  twose dutatu",
-                "Inyuma yuko umwigisha ahejeje kuvuga agakuru kamwe-kamwe  kose "
-              ],
               "correct-answer": 3
             },
             {
-              "question": "Ni ikihe kintu wotegerezwa kuba uriko urakora?",
-              "answer-type": "multiple-choice",
-              "answers":[
-                "Notegerezwa guhindura udukuru mvuga igihe cose ndiko ndimenyerereza hamwe n'abanyeshure ",
-                "Notegerezwa gutera udukuru two gutera ubwoba abanyeshure ",
-                "Notegerezwa gushiraho umukazo ku banyeshure kugira basigure igituma bahisemwo ibishobisho kanaka "
+              "question": "Unapaswa kufanya nini kwa mara ya pili?",
+              "answers": [
+                "Vuta pumzi ndani nazitoe nje taratibu wakati ukitanua na kuminya tumbo",
+                "Unapaswa kujadili shghuli na mtoto",
+                "Weka mkono mmoja kwenye tumbo na mkono mwingine kwenye kifua halafu fumba macho"
               ],
+              "answer-type": "multiple-choice",
               "correct-answer": 1
             },
             {
-              "question": "Ni ikihe kintu wotegerezwa kuba uriko urakora?",
-              "answer-type": "multiple-choice",
-              "answers":[
-                "Notegerezwa kwihutisha abanyeshure mu guhitamwo igishogisho ningoga na ningoga  ",
-                "Notegerezwa kugira agakorwa akagoye ku banyeshure bisumbuye mu kwongeramwo ibishobisho bindi vyinshi bahitamwo ",
-                "Notegerezwa gucira urubanza abanyeshure ku mahitamwo y'ibishobisho kanaka"
+              "question": "Unapaswa kufanya nini kwa mara ya mwisho?",
+              "answers": [
+                "Vuta pumzi ndani nazitoe nje taratibu wakati ukitanua na kuminya tumbo",
+                "Unapaswa kujadili shghuli na mtoto",
+                "Weka mkono mmoja kwenye tumbo na mkono mwingine kwenye kifua halafu fumba macho"
               ],
+              "answer-type": "multiple-choice",
               "correct-answer": 2
             },
             {
-              "question": "Ni ikihe kintu wotegerezwa kuba uriko urakora?",
-              "answer-type": "multiple-choice",
-              "answers":[
-                "Notegerezwa gushushanya ibishobisho ku rubaho mu kworosha agakorwa ku bana badashoboye gusoma ",
-                "Notegerezwa kubwira abanyeshure  gishogisho  kihe kibereye guhitamwo?",
-                "Notegerezwa guhagarika abanyeshure gukina mu gihe bahisemwo igishogisho kitari co"
-              ],
-              "correct-answer": 1
-            },
-            {
-              "question": "Ni akahe karorero k'ikibazo wobaza abanyeshure bawe mu gihe co kurongora ikiganiro muri aka gakorwa?",
-              "answer-type": "multiple-choice",
-              "answers":[
-                "Ni gute woshobora gukoresha ubumenyi bwo gufata ku mu mutwe mu buzima bwawe?",
-                "Ni gute woshobora gukinga amatati?",
-                "Kubera iki ari ngira kamaro gushora kumenya uko wokwiyumva bitaragushikira?"
-              ],
-              "correct-answer": 3
-            },
-            {
-              "question": "Ni abahe banyeshure woshobora guhitamwo ngo basangire n'ishure ibishobisho vyabo bahisemwo?",
-              "answer-type": "multiple-choice",
-              "answers":[
-                "Notegerezwa misi yose guhitamwo abanyeshure b'incabwenge ",
-                "Nohitamwo abanyeshure batoye ibishobisho bitandukanye mu gihe badugije ibiganza  ",
-                "Notegerezwa benshi berekanye ko bafise umunezero gusa "
-              ],
-              "correct-answer": 1
-            }
-          ]
-        },
-        {
-          "id": 2,
-          "title": "DADAZA WONGERE WOROSHE",
-          "color": "#117A65",
-          "video": "[07] Tense and Release.mp4",
-          "questions": [
-            {
-              "question": "Wabonye gute muri rusangi iyi reresi?",
-              "answer-type": "multiple-choice",
+              "question": "Ni wakati gani unapata muda wa kupumuzika na watoto wako?",
               "answers": [
-                "Nayikunze kandi yari ngira kamaro",
-                "Ntaho mpagaze kandi nibaza ko vyoba vyari ngira kamaro canke atari ngira kamaro",
-                "Sinahimbawe n'iyi reresi kandi nibaza ko itari ngira kamaro"
-              ]
+                "Mchana wakati hakuna mtu nyumbani",
+                "Usiku, kabla ya mtoto wangu kulala",
+                "Kwa nyakati tofauti ambayo haikutajwa hapa"
+              ],
+              "answer-type": "multiple-choice"
             },
             {
-              "question": "Ni ubuhe bushobozi buri muri ino reresi?",
-              "answer-type": "multiple-choice",
+              "question": "Ni wakati gani utacheza mchezo huu na watoto wako wiki ijayo?",
               "answers": [
-                "Gukorera mu runani rwiza",
-                "Kugenzura ibishobisho vyawe",
-                "kwubaka ubwonko bwawe"
+                "Mchana wakati hakuna mtu nyumbani",
+                "Usiku, kabla ya mtoto wangu kulala",
+                "Kwa nyakati tofauti ambayo haikutajwa hapa"
               ],
-              "correct-answer": 2
-            },
-            {
-              "question": "Ni iyihe ntumbero y'agakorwa?",
-              "answer-type": "multiple-choice",
-              "answers": [
-                "Gufasha abanyeshure kwiga gukorera mu mugwi, kwumviriza no guhanahana ivyiyumviro n'abandi",
-                "Gufasha abanyeshure kumenya ibishobisho vyabo no kwitekanya",
-                "Gufasha abanyeshure gutahura ibitera amatati mu kubaza ibibazo"
-              ],
-              "correct-answer": 2
-            },
-            {
-              "question": "Ni ibiki wobwiriza abanyeshure gukora muri kano gakorwa?",
-              "answer-type": "multiple-choice",
-              "answers": [
-                "Kudadaza umubiri wabo wose incuro cumi",
-                "Kudadaza wongera worosha igihimba kimwe kimwe cose uhereye ku mano ugashitsa ku mutwe",
-                "Guhemera imbere n'inyuma ningoga na ningoga amaso yugaye"
-              ],
-              "correct-answer": 2
-            },
-            {
-              "question": "Ni ikihe kintu wotegerezwa kuba uriko urakora?",
-              "answer-type": "multiple-choice",
-              "answers": [
-                "Notegerezwa guhumiriza amaso yanje mu gihe ndiko ndarongora aka gakorwa",
-                "Notegerezwa kureka abanyeshure bagakora ico arico cose biyumvamwo gukora muri kano gakorwa ku buryo batabuza umutekano abandi banyeshure ",
-                "Notewgerezwa guha amahirwe abanyeshure bahisemwo kuvyitabira"
-              ],
-              "correct-answer": 2
-            },
-            {
-              "question": "Ni ikihe kintu wotegerezwa kuba uriko urakora?",
-              "answer-type": "multiple-choice",
-              "answers": [
-                "Notegerezwa guhata abanyeshure kwishura no gusabikanya n'abandi uko biyumva naho batoba badugize urutoke ngo basabikanye n'abandi",
-                "Notegerezwa gusaba abanyeshure bose kuvyitabira naho batoba babishaka",
-                "Notegerezwa gusigurira neza abanyershure inyungu z'aka gakorwa"
-              ],
-              "correct-answer": 3
-            },
-            {
-              "question": "Ni ikihe kintu utotegerezwa kuba uriko urakora?",
-              "answer-type": "multiple-choice",
-              "answers": [
-                "Sinotegerezwa kubatera intege zo kubandanya bahema bashitsa",
-                "Sinoterezwa kureka abanyeshure ngo bagumye impwemu zabo mu gihe c'inyigisho yo kudadaza igihimba c'umubiri ",
-                "Sinotegerezwa gutera intege mu rupfasoni abanyeshure zo kuvyitabira"
-              ],
-              "correct-answer": 2
-            },
-            {
-              "question": "Ni ibiki umunyeshure yoshobora kuvuga mu mwanya wo kurongora ikiganiro c'aka gakorwa?",
-              "answer-type": "multiple-choice",
-              "answers": [
-                "Nasanze ikintu rusangi ku bagenzi banje b'ishure nka bose",
-                "Umuntu wese ni ngirakamaro mu murwi kandi abantu bose bategerezwa kubamwo",
-                "Mu gihe dufise ibibazo vyo kudasinzira twoshobora kwimenyereza kudadaza twongera tworosha Imitsi yacu mu gutekanya imibiri yacu n'ubwenge bwacu"
-              ],
-              "correct-answer": 3
-            },
-            {
-              "question": "Aka gakorwa katwigisha kuzirikana ni iki?",
-              "answer-type": "multiple-choice",
-              "answers": [
-                "kuba mwiza mukugiriranira imigenderanire n'abandi",
-                "Gutahura ibiriko biraba muri wewe n'i ruhande yawe",
-                "Kurondera izindi nzira nshasha kandi zisiguritse mu gutorera umuti ingorane"
-              ],
-              "correct-answer": 2
+              "answer-type": "multiple-choice"
             }
           ]
         }
@@ -606,292 +324,151 @@
       "topics": [
         {
           "id": 0,
-          "title": "KORA IMASHINE",
+          "title": "MARAFIKI WA ASILI",
           "color": "#1A5276",
-          "video": "[09] Make a Machine.mp4",
+          "video": "",
           "questions": [
             {
-              "question": "Wabonye gute muri ru{sangi iyi reresi?",
-              "answer-type": "multiple-choice",
+              "question": "Nini ulikuwa mtazamo wako wa jumla kuhusu video hii?",
               "answers": [
-                "Nayikunze kandi yari ngira kamaro",
-                "Ntaho mpagaze kandi nibaza ko vyoba vyari ngira kamaro canke atari ngira kamaro",
-                "Sinahimbawe n'iyi reresi kandi nibaza ko itari ngira kamaro"
-              ]
+                "Niliipenda na ilikuwa inafaa.",
+                "Nipo kati na nafikiri ilikuwa si yenye kufaa wala maana.",
+                "Sikufurahia video na nilifikiri ilikuwa haifai"
+              ],
+              "answer-type": "multiple-choice"
             },
             {
-              "question": "Ni ubuhe bushobozi buri muri ino reresi?",
-              "answer-type": "multiple-choice",
+              "question": "Je, ni nini lengo la shughuli hii?",
               "answers": [
-                "Gutatura impari n'amatati",
-                "Gukorera mu runani rwiza",
-                "kugenzura inyiyumvo zawe"
+                "Kusaidia watoto wako kuthamini mtu fulani ambaye ni mchapa-kazi/ mwenye juhudi na kamwe hakati tamaa",
+                "Kusaidia watoto wako kujumuika/kuwasiliana vizuri na wengine na kuwa rafiki mwema",
+                "Kusaidia watoto wako kukumbuka vitu vipya kwa urahisi."
               ],
+              "answer-type": "multiple-choice",
               "correct-answer": 2
             },
             {
-              "question": "Ni iyihe ntumbero y'agakorwa?",
-              "answer-type": "multiple-choice",
+              "question": "Je, unapaswa kufanya nini kwanza?",
               "answers": [
-                "Gufasha abanyeshure kuvuga, kwibuka no kwerekana ibishobisho bitandukanye",
-                "Gufasha abanyeshure kumenya ko abagenzi babo bafitaniye ivyo bahuriyeko n'ubudasa",
-                "Gufasha abanyeshure kwigabura mu mugwi, kwumvirizanya no gusanyira iviyumviro n'abandi"
+                "Unapaswa kuomba watoto wako wakueleze kuhusu mfano wa rafiki wao",
+                "Unapaswa kuomba watoto wako kuweka mfano wa rafiki kwa kutumia vitu wanavyopata",
+                "Unapaswa kuongea na watoto wako kuhusu kitu kinachofanya mtu kuwa rafiki mwema"
               ],
+              "answer-type": "multiple-choice",
               "correct-answer": 3
             },
             {
-              "question": "Ni ibiki imigwi y'abanyeshure bategerezwa gukorera mu runani?",
-              "answer-type": "multiple-choice",
+              "question": "Je, unapaswa kufanya nini kwa mara ya pili?",
               "answers": [
-                "Kwiyumvira ku nzira zo gutatura amatati",
-                "Kwerekana uruhara rwa buri muntu canke ibihimba",
-                "Kwiga kwererekana ibishobisho ukoresheje ibimenyetso vyo mu maso"
+                "Unapaswa kuomba watoto wako wakueleze kuhusu mfano wa rafiki wao",
+                "Unapaswa kuomba watoto wako kuweka mfano wa rafiki kwa kutumia vitu wanavyopata",
+                "Unapaswa kuongea na watoto wako kuhusu kitu kinachofanya mtu kuwa rafiki mwema"
               ],
+              "answer-type": "multiple-choice",
               "correct-answer": 2
             },
             {
-              "question": "Ni ikihe kintu wotegerezwa kuba uriko urakora?",
-              "answer-type": "multiple-choice",
+              "question": "Je, unapaswa kufanya nini kwa mara ya mwisho?",
               "answers": [
-                "Notegerezwa gutera intege abanyeshure bose mu mashine mu gusigura ibikorwa vyabo",
-                "Notegerezwa guhitamwo gusa imigwi mu gusabikanya ivyiza muri aka gakorwa",
-                "Notegerezwa kwemerera abanyeshure bamwe bamwe kwigira inyuma no kutaba mu bigze imashine "
+                "Unapaswa kuomba watoto wako wakueleze kuhusu mfano wa rafiki wao",
+                "Unapaswa kuomba watoto wako kuweka mfano wa rafiki kwa kutumia vitu wanavyopata",
+                "Unapaswa kuongea na watoto wako kuhusu kitu kinachofanya mtu kuwa rafiki mwema"
               ],
+              "answer-type": "multiple-choice",
               "correct-answer": 1
             },
             {
-              "question": "Ni ikihe kintu wotegerezwa kuba uriko urakora?",
-              "answer-type": "multiple-choice",
+              "question": "Ni wakati gani unapata muda wa kupumuzika na watoto wako?",
               "answers": [
-                "Notegerezwa guha amahirwe imigwi yabikoze neza",
-                "Notegerezwa gutanga uburorero mu gihe abanyeshure badashoboye kwiyumvira ku mashine canke badashoboye kwiyumvira ukwikora.",
-                "Notegerezwa kubwira abanyeshure ibikora imashine. "
+                "Wakati watoto wanafika nyumbani kutoka shuleni",
+                "Kabla ya watoto kwenda kitandani",
+                "Kwa nyakati tafauti ambayo haikutajwa hapa"
               ],
-              "correct-answer": 2
+              "answer-type": "multiple-choice"
             },
             {
-              "question": "Ni ikihe kintu utotegerezwa kuba uriko urakora?",
-              "answer-type": "multiple-choice",
+              "question": "Ni wakati gani utacheza mchezo huu na watoto wako wiki ijayo?",
               "answers": [
-                "Notegerezwa kubwira abanyeshure uko ibikorwa vyose bigenda",
-                "Notegerezwa guhitamwo umugwi urya nyene mu gusabikanya buri mwanya twimenyereje akagakorwa",
-                "Notegerezwa kubwira abanyeshure uko vyagenze ku bijanye nuko bakoreye mu runani gwiza canke ivyo botegerezwa gukorera hamwe neza muri kazoza "
+                "Wakati watoto wanafika nyumbani kutoka shuleni",
+                "Kabla ya watoto kwenda kitandani",
+                "Kwa nyakati tafauti ambayo haikutajwa hapa"
               ],
-              "correct-answer": 3
-            },
-            {
-              "question": "Ni akahe karore k'ikibazo wotegerezwa kubaza abanyeshure mu kiganiro c'aka gakorwa?",
-              "answer-type": "multiple-choice",
-              "answers": [
-                "Ni gute amatati yoshobora gukingwa?",
-                "Ni gute mwahisemwo uruhara rw'umwe umwe muri mwebwe rw'ico ategerezwa gukina ku mashine?",
-                "Ni ibihe mwize ku bijanye n'umubiri wacu n'inyiyumvo zacu muri aka gakorwa?"
-              ],
-              "correct-answer": 2
-            },
-            {
-              "question": "Ni ibiki wotegerezwa gufasha abanyeshure muri aka gakorwa?",
-              "answer-type": "multiple-choice",
-              "answers": [
-                "Abanyeshure bategerezwa kuyaga ukuntu iyo nyifato yabateye kwiyumva",
-                "Abanyeshure bategerezwa kwiyemeza mu kiganiro ico bubaka n'ico umuntu wese ategerezwa gukora batarinze kubifashwamwo n'umwigisha",
-                "Abanyeshure bategerezwa guhumiriza amaso yabo no guheme bashikana mu gihe c'agakorwa"
-              ],
-              "correct-answer": 2
+              "answer-type": "multiple-choice"
             }
           ]
         },
         {
           "id": 1,
-          "title": "UMUYAGA URAHUHUTA",
+          "title": "KUFUNGUA KIFUNDO",
           "color": "#1A5276",
-          "video": "[08] The Wind Blows.mp4",
+          "video": "",
           "questions": [
             {
-              "question": "Wabonye gute muri rusangi iyi reresi?",
-              "answer-type": "multiple-choice",
+              "question": "Nini ulikuwa mtazamo wako wa jumla kuhusu video hii?",
               "answers": [
-                "Nayikunze kandi yari ngira kamaro",
-                "Ntaho mpagaze kandi nibaza ko vyoba vyari ngira kamaro canke atari ngira kamaro",
-                "Sinahimbawe n'iyi reresi kandi nibaza ko itari ngira kamaro"
-              ]
+                "Niliipenda na ilikuwa inafaa.",
+                "Nipo kati na nafikiri ilikuwa si yenye kufaa wala maana.",
+                "Sikufurahia video na nilifikiri ilikuwa haifai"
+              ],
+              "answer-type": "multiple-choice"
             },
             {
-              "question": "Ni ubuhe bushobozi buri muri ino reresi?",
-              "answer-type": "multiple-choice",
+              "question": "Je, ni nini lengo la shughuli hii?",
               "answers": [
-                "Ntudohoke namba",
-                "kugenzura ibishobisho vyawe",
-                "Gukorera mu runani rwiza"
+                "Kusaidia watoto kujumuika/kuwasiliana vizuri pamoja na wengine na kufanya kazi pamoja",
+                "Kusaidia mtoto wako kukumbuka vitu kwa urahisi",
+                "Kusaidia mtoto wako kutambua hisia kwa wengine"
               ],
-              "correct-answer": 3
-            },
-            {
-              "question": "Ni iyihe ntumbero y'agakorwa?",
               "answer-type": "multiple-choice",
-              "answers": [
-                "Gufasha abanyeshure kuvuga ,kwibuka no kwerekana ibishobisho bitandukanye",
-                "Gufasha abanyeshure kwibuka amategeko agoye no kubafasha kwiyumvira imbere yogukora",
-                "Gufasha abanyeshure kwiga gukorera mu runani ,naho hoba hariho ibibatandukanya"
-              ],
-              "correct-answer": 3
-            },
-            {
-              "question": "Ni nde munyeshure yogira ico asabikanya mu gukoresha iryungane \"umuyaga urahuhuse ku uwo ariwe wese …\"?",
-              "answer-type": "multiple-choice",
-              "answers": [
-                "Ategerezwa kuba umunyeshure abonekana kenshi ko avuga ibintu nk'incabwenge",
-                "Yotegerezwa kuba umunyeshure yabaye uwanyuma mu kwicara mu muzunguruko uheze",
-                "Yotegerezwa kuba umunyeshure uwo ariwe wese nshatse guhitamwo"
-              ],
-              "correct-answer": 2
-            },
-            {
-              "question": "Ni ikihe kintu wotegerezwa kuba uriko urakora?",
-              "answer-type": "multiple-choice",
-              "answers": [
-                "Notegerezwa guha amahirwe abanyeshure bakunda ibintu vyemerwa kw'ishure no mu hira",
-                "Nohitamwo abanyeshure bo gusabikanya bari kw'isonga mw'isomero ryabo",
-                "Notegerezwa gutera intege abanyeshure mu kuraba hirya no hino uwukunda ibinaka no gutahura ubudasa"
-              ],
-              "correct-answer": 3
-            },
-            {
-              "question": "Ni ikihe kintu wotegerezwa kuba uriko urakora?",
-              "answer-type": "multiple-choice",
-              "answers": [
-                "Notegerezwa kwerekana ko ntemeranya n'ivyo abana bakunda n'ivyo badakunda",
-                "Notegezwa guhindura agakorwa mu guhitamwo ico tuganirako mu gihe abanyeshure bamaze guhabwa amahirwe yo kwimenyereza agakorwa mu gukoresha ibikundwa n'ibidakundwa",
-                "Notegerezwa kwemerera abanyeshure batatu gusa mu gusabikanya"
-              ],
-              "correct-answer": 2
-            },
-            {
-              "question": "Ni ikihe kintu utotegerezwa kuba uriko urakora?",
-              "answer-type": "multiple-choice",
-              "answers": [
-                "Sinotegerezwa gutera intege abanyeshure mu gutahura ubudasa",
-                "Sinotegerezwa kwemere abanyeshure gushima uwundi munyeshure bitewe n'ivyo bakunda n'ivyo badakunda",
-                "Sinotegerezwa gusobanura kwari vyiza kugira ivyo bahuriyeko n'ibibatandukanya."
-              ],
-              "correct-answer": 2
-            },
-            {
-              "question": "Ni akahe karorero k'ikibazo wotegerezwa kubaza abanyeshure bawe mu mwanya w'ikiganiro c'aka gakorwa?",
-              "answer-type": "multiple-choice",
-              "answers": [
-                "Kubera iki wibaza ko ari ngirakamaro kumenya ko hari ivyo uhuriyeko niyo utandukaniyeko na bagenzi bawe bo mw'ishure?",
-                "Kwoba ugukorana n'umugenzi kwari ubumenyi bwiza canke ubumenyi bubi?",
-                "Ni gute wibaza ko ibikorwa vyawe bikora ku nyifato za bagenzawe imisi yose?"
-              ],
               "correct-answer": 1
             },
             {
-              "question": "Ni akahe karorero k'ikintu abanyeshure boshobora kuvuga inyuma y'iryungane \"Umuyaga urahuhuta k'uwo ariwe wese?\"",
-              "answer-type": "multiple-choice",
+              "question": "Je, unapaswa kufanya nini kwanza?",
               "answers": [
-                "Kuzungagiza ibiganza vyabo",
-                "Ni umwana akuze mu muryango wabo",
-                "Gukora ku miwe yabo"
+                "Unapaswa kuomba watoto waachiliane mikono wenyewe: kwanza bila kuongea na baadae wawasiliane/waambizane",
+                "Unapaswa kujadili shuguli na watoto",
+                "Unapaswa kuomba watoto tano (5) au zaidi kusimama kwenye mduara na kuinua mikono ya watu wengine kwa kushikana kwa pamoja"
               ],
-              "correct-answer": 2
-            }
-          ]
-        },
-        {
-          "id": 2,
-          "title": "TWENGESHA IGISHUSHO",
-          "color": "#1A5276",
-          "video": "[02] Make the Statue Laugh.mp4",
-          "questions": [
-            {
-              "question": "Wabonye gute muri rusangi iyi reresi?",
               "answer-type": "multiple-choice",
-              "answers": [
-                "Nayikunze kandi yari ngira kamaro",
-                "Ntaho mpagaze kandi nibaza ko vyoba vyari ngira kamaro canke atari ngira kamaro",
-                "Sinahimbawe n'iyi reresi kandi nibaza ko itari ngira kamaro "
-              ]
-            },
-            {
-              "question": "Ni ubuhe bushobozi buri muri ino reresi?",
-              "answer-type": "multiple-choice",
-              "answers": [
-                "Gukorera mu runani rwiza",
-                "Ntudohoke",
-                "kugenzura inyiyumvo zawe"
-              ],
-              "correct-answer": 1
-            },
-            {
-              "question": "Ni iyihe ntumbero y'agakorwa?",
-              "answer-type": "multiple-choice",
-              "answers": [
-                "Gufasha abanyeshure gutegura amahangiro n'integuro zishikwako",
-                "Gufasha abanyeshure kumenya ibitera amatati",
-                "Gufasha abanyeshure gutahura ko ibikorwa vyabo bishobora guhindura uko abandi biyumva no kugenzura ibishika vyabo"
-              ],
               "correct-answer": 3
             },
             {
-              "question": "Ninde ari umunyatugenege kandi ni ari igishusho muri aka akorwa?",
-              "answer-type": "multiple-choice",
+              "question": "Je, unapaswa kufanya nini mara ya pili?",
               "answers": [
-                "Umunyeshure ni igishusho umunyeshure nawe ni umunyatugenegene",
-                "Mu mugwi wa 2: umunyeshure umwe ni umunyatugenegene uwundi nawe ni igishusho",
-                "Umwigisha ni igishusho abanyeshure nabo ni abanyatugenegene "
+                "Unapaswa kuomba watoto waachiliane mikono wenyewe: kwanza bila kuongea na baadae wawasiliane/waambizane",
+                "Unapaswa kujadili shuguli na watoto",
+                "Unapaswa kuomba watoto tano (5) au zaidi kusimama kwenye mduara na kuinua mikono ya watu wengine kwa kushikana kwa pamoja"
               ],
-              "correct-answer": 2
-            },
-            {
-              "question": "Ni ikihe kintu wotegerezwa kuba uriko urakora?",
               "answer-type": "multiple-choice",
-              "answers": [
-                "Notegerezwa kubwira abanyeshure ukugene boshobora gutwengesha bagenzi babo",
-                "Notegerezwa gukora ibishoka  kugira ngo abanyeshure  bose baronke amahirwe yokuba igishusho n'umunyatugenegene",
-                "Notegerezwa guhagarika kwimenyereza agakorwa mu gihe abanyeshure badashoboye gutwengeshanya"
-              ],
-              "correct-answer": 2
-            },
-            {
-              "question": "Ni ikihe kintu wotegerezwa kuba uriko urakora?",
-              "answer-type": "multiple-choice",
-              "answers": [
-                "Notegerjwe kureka abanyeshure bagakoranako mu gutwengeshanya",
-                "Notegerezwa kureka abanyeshure gukora ivyo biyumvamwo gukora vyose",
-                "Notegerezwa guca intege abana badashoboye kugenzura agatwengo kabo "
-              ],
-              "correct-answer": 2
-            },
-            {
-              "question": "Ni ikihe kintu utotegerezwa gurakora?",
-              "answer-type": "multiple-choice",
-              "answers": [
-                "Sinotegerezwa kureka abanyeshure bakoraneko mu kwimenyereza kano gakorwa",
-                "Sinotegerezwa gushira abanyeshure mu mirwi ya babiri-babiri",
-                "Sinotegerezwa kwitaho imirwi y'abanyeshure babiri-babiri vyadidaniwe"
-              ],
               "correct-answer": 1
             },
             {
-              "question": "Ni akahe karorero k'ikibazo wobaza abanyeshure bawe mu gihe co kurongora ikiganiro muri aka gakorwa?",
-              "answer-type": "multiple-choice",
+              "question": "Je, unapaswa kufanya nini mara ya mwisho?",
               "answers": [
-                "Kubera iki ari ngira kamaro gushora kumenya uko wokwiyumva bitaragushikira?",
-                "Ni gute ayo matati yotegerejwe kuba yaririnzwe?",
-                "Wibaza ko ibikorwa vyawe bikora ku nyiyumvo za bagenzawe gute buri musi?"
+                "Unapaswa kuomba watoto waachiliane mikono wenyewe: kwanza bila kuongea na baadae wawasiliane/waambizane",
+                "Unapaswa kujadili shuguli na watoto",
+                "Unapaswa kuomba watoto tano (5) au zaidi kusimama kwenye mduara na kuinua mikono ya watu wengine kwa kushikana kwa pamoja"
               ],
-              "correct-answer": 3
+              "answer-type": "multiple-choice",
+              "correct-answer": 2
             },
             {
-              "question": "wokora iki mu gihe abanyeshure bawe babaye ibishusho batwenga ningoga na ningoga?",
-              "answer-type": "multiple-choice",
+              "question": "Ni wakati gani unapata muda wa kupumuzika na watoto wako?",
               "answers": [
-                "Notegerezwa kurondera igikorwa gishasha co gukora",
-                "Notegerezwa kubandanya nimenyereza agakorwa buri musi mu gufasha abanyeshure kwimenyereza kugenzura ibishika vyabo",
-                "Notegerezwa guha indero abanyeshure batwenga ningoga"
+                "Wakati watoto wangu na marafiki zao wanacheza nyuma ya nyumba na nina tazama",
+                "Asubuhi wakati watoto wangu wapo tayari kwenda shuleni",
+                "Kwa nyakati tofuti ambayo haikutajwa hapa"
               ],
-              "correct-answer": 2
+              "answer-type": "multiple-choice"
+            },
+            {
+              "question": "Ni wakati gani utacheza mchezo huu na watoto wako wiki ijayo?",
+              "answers": [
+                "Wakati watoto wangu na marafiki zao wanacheza nyuma ya nyumba na nina tazama",
+                "Asubuhi wakati watoto wangu wapo tayari kwenda shuleni",
+                "Kwa nyakati tofuti ambayo haikutajwa hapa"
+              ],
+              "answer-type": "multiple-choice"
             }
           ]
         }
@@ -903,98 +480,151 @@
       "topics": [
         {
           "id": 0,
-          "title": "IBIBAZO BITANU",
+          "title": "SULUHU YA HADITHI",
           "color": "#1A5276",
-          "video": "[10] Five questions.mp4",
+          "video": "",
           "questions": [
             {
-              "question": "Wabonye gute muri rusangi iyi reresi?",
-              "answer-type": "multiple-choice",
+              "question": "Nini ulikuwa mtazamo wako wa jumla kuhusu video hii?",
               "answers": [
-                "Nayikunze kandi yari ngira kamaro",
-                "Ntaho mpagaze kandi nibaza ko vyoba vyari ngira kamaro canke atari ngira kamaro ",
-                "Sinahimbawe n'iyi reresi kandi nibaza ko itari ngira kamaro "
-              ]
+                "Niliipenda na ilikuwa inafaa.",
+                "Nipo kati na nafikiri ilikuwa si yenye kufaa wala maana.",
+                "Sikufurahia video na nilifikiri ilikuwa haifai"
+              ],
+              "answer-type": "multiple-choice"
             },
             {
-              "question": "Ni ubuhe bushobozi buri muri ino reresi?",
-              "answer-type": "multiple-choice",
+              "question": "Je, ni nini lengo la shughuli hii?",
               "answers": [
-                "Kugenzura inyiyumvo zawe ",
-                "Gutatura impari n'amatati ",
-                "kwubaka ubwonko bwawe"
+                "Kusaidia watoto wako kuwa makini na kukumbuka taarifa",
+                "Kusaidia marafiki wa watoto wako kufuatilia vitu kwa ukaribu",
+                "Kusaidia watoto wako kutambua njia za kutatua migogoro"
               ],
-              "correct-answer": 2
-            },
-            {
-              "question": "Ni iyihe ntumbero y'agakorwa?",
               "answer-type": "multiple-choice",
-              "answers": [
-                "Gufasha abanyeshure kwitaho ugukurikira no gufata ku mutwe inkuru",
-                "Gufasha abanyeshure kuvuga ,kwibuka no kwerekana ibishobisho bitandukanye",
-                "Gufasha abanyeshure kumenya ibitera amatati biciye mu kubaza ibibazo "
-              ],
               "correct-answer": 3
             },
             {
-              "question": "Ni akahe karorero kamwe ko mu bibazo bitanu ubaza mu gihe c'amatati?",
-              "answer-type": "multiple-choice",
+              "question": "Je, unapaswa kufanya nini kwanza?",
               "answers": [
-                "Ni ayahe mazina yawe?",
-                "Ni hehe amatati yabereye? ",
-                "Ufise basazawe na bashikawe bangahe?"
+                "Unapaswa kueleza hadithi kuhusu marafiki wawili ambao wana mgogoro",
+                "Unapaswa kuamua kwa pamoja namna gani hadithi inaisha na namna gani mgogoro unatatuliwa",
+                "Unapaswa kujadili shughuli na mtoto"
               ],
+              "answer-type": "multiple-choice",
+              "correct-answer": 1
+            },
+            {
+              "question": "Je, unapaswa kufanya nini kwa mara ya pili?",
+              "answers": [
+                "Unapaswa kueleza hadithi kuhusu marafiki wawili ambao wana mgogoro",
+                "Unapaswa kuamua kwa pamoja namna gani hadithi inaisha na namna gani mgogoro unatatuliwa",
+                "Unapaswa kujadili shughuli na mtoto"
+              ],
+              "answer-type": "multiple-choice",
               "correct-answer": 2
             },
             {
-              "question": "Ni ikihe kintu wotegerezwa kuba uriko urakora?",
-              "answer-type": "multiple-choice",
+              "question": "Je, unapaswa kufanya nini kwa mara ya mwisho?",
               "answers": [
-                "Notegerezwa guha amahirwe abanyeshure bashoboye kwisura ibibazo bitanu vyose",
-                "Notegerezwa gutera intege abanyeshure mukuvuga inkuru zibaho canke izo biyumviriye zitabayeho.",
-                "Sinotegerezwa guta uturorero tw'amatati mu gukabura abanye"
+                "Unapaswa kueleza hadithi kuhusu marafiki wawili ambao wana mgogoro",
+                "Unapaswa kuamua kwa pamoja namna gani hadithi inaisha na namna gani mgogoro unatatuliwa",
+                "Unapaswa kujadili shughuli na mtoto"
               ],
-              "correct-answer": 2
-            },
-            {
-              "question": "Ni ikihe kintu wotegerezwa kuba uriko urakora?",
               "answer-type": "multiple-choice",
-              "answers": [
-                "I should discipline students if they are not able to answer all five questions",
-                "I should stop practicing the activity if students are not able to answer the five questions ",
-                "I should change the theme of the conflicts each time we practice"
-              ],
               "correct-answer": 3
             },
             {
-              "question": "Ni ikihe kintu utotegerezwa gurakora?",
-              "answer-type": "multiple-choice",
+              "question": "Ni wakati gani unapata muda wa kupumuzika na watoto wako?",
               "answers": [
-                "Sinotegerezwa gutera intege abanyeshure mu kwandika inyishu zabo",
-                "Sinotegerezwa guhata abanyeshure kuvuga udukuru tw'amatati nyakuri",
-                "Sinotegerezwa gutera intege abanyeshure mu kugerageza kwishura ibibazo bitanu neza birenze ubushozi bwabo"
+                "Baada ya kufika nyumbani kutoka kanisani au mskitini",
+                "Wakati ninaanda chakula cha jioni",
+                "Kwa nyakati tofauti ambazo haikutajwa hapa"
               ],
-              "correct-answer": 2
+              "answer-type": "multiple-choice"
             },
             {
-              "question": "Ni ibiki umunyeshure yotegerezwa kuvuga mu gihe co kurongora ikiganiro mu kano gakorwa",
-              "answer-type": "multiple-choice",
+              "question": "Ni wakati gani utacheza mchezo huu na watoto wako wiki ijayo?",
               "answers": [
-                "Umuntu wese ni ngirakamaro mu murwi kandi bose bategerezwa kubamwo",
-                "Aka gakorwa kampa kwumva ntekanye no gushobora kwitaho ibintu",
-                "Dutegerezwa ibihe vyose kubaza ibibazo bitanu mu gihe turi mu matati"
+                "Baada ya kufika nyumbani kutoka kanisani au mskitini",
+                "Wakati ninaanda chakula cha jioni",
+                "Kwa nyakati tofauti ambayo haikutajwa hapa"
               ],
+              "answer-type": "multiple-choice"
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "title": "KUONDOA LAWAMA",
+          "color": "#1A5276",
+          "video": "",
+          "questions": [
+            {
+              "question": "Nini ulikuwa mtazamo wako wa jumla kuhusu video hii?",
+              "answers": [
+                "Nimeipenda na ilikua yenye kufaa sana",
+                "Nipo kati na nifikiri ilikua si yenye kufaa wala yenye maana",
+                "Sikufurahia na nilikiri ilikua haifai."
+              ],
+              "answer-type": "multiple-choice"
+            },
+            {
+              "question": "Je, ni nini lengo la shughuli hii?",
+              "answers": [
+                "kusaidia watoto wako kuthamini mtu fulani mwenye juhudi na asiyekata tamaa kamwe.",
+                "Kusaidia watoto wako kutambua hisia kwa wengine.",
+                "kusaidia watoto wako kutatua matatizo bila kulaumu mtu yeyote"
+              ],
+              "answer-type": "multiple-choice",
               "correct-answer": 3
             },
             {
-              "question": "Wotegerezwa gukora iki mu gihe abanyeshure bariko bariko barishura ibibazo bitanu mu nyishu ntonto?",
-              "answer-type": "multiple-choice",
+              "question": "Je, unapashwa kufanya nini kwanza?",
               "answers": [
-                "Guhagarika  kwimenyereza aka gakorwa nkaca ntangura ikindi cigwa ",
-                "Gusaba abanyeshure kwongeramwo ibibazo bijanye na kimwe kimwe muri bimwe bitanu nka \"ico guteye kwiyumva gute?\"",
-                "kubwira abanyeshure ko badashoboye muri kano gakorwa."
+                "Unapashwa kuongea na watoto wako kuhusu kulaumu/lawama: ni nini na namna gani inaweza pelekea kwenye mgogoro?",
+                "Unapashwa kujadili shughuli na watoto wako",
+                "Unapashwa kusema misemo tofauti tofauti na uliza watoto kutambua kama misemo wanalaumu: badilisha misemo ya lawama iwe misemo ya kutolaumu"
               ],
+              "answer-type": "multiple-choice",
+              "correct-answer": 1
+            },
+            {
+              "question": "Je, unapashwa kufanya nini kwa mara ya pili?",
+              "answers": [
+                "Unapashwa kuongea na watoto wako kuhusu kulaumu/lawama: ni nini na namna gani inaweza pelekea kwenye mgogoro?",
+                "Unapashwa kujadili shughuli na watoto wako",
+                "Unapashwa kusema misemo tofauti tofauti na uliza watoto kutambua kama misemo wanalaumu: badilisha misemo ya lawama iwe misemo ya kutolaumu"
+              ],
+              "answer-type": "multiple-choice",
+              "correct-answer": 3
+            },
+            {
+              "question": "Je, unapashwa kufanya nini kwa mara ya mwisho?",
+              "answers": [
+                "Unapashwa kuongea na watoto wako kuhusu kulaumu/lawama: ni nini na namna gani inaweza pelekea kwenye mgogoro?",
+                "Unapashwa kujadili shughuli na watoto wako",
+                "Unapashwa kusema misemo tofauti tofauti na uliza watoto kutambua kama misemo wanalaumu: badilisha misemo ya lawama iwe misemo ya kutolaumu"
+              ],
+              "answer-type": "multiple-choice",
               "correct-answer": 2
+            },
+            {
+              "question": "Ni wakati gani unapata muda wa kupumuzika na watoto wako?",
+              "answers": [
+                "Wakati wa kwenda kitandani au mazoea ya mchana",
+                "Wakati wa chakula cha mchana au mazoea ya asubuhi",
+                "Kwa nyakati tofauti ambayo haikutajwa hapa"
+              ],
+              "answer-type": "multiple-choice"
+            },
+            {
+              "question": "Ni wakati gani utacheza mchezo huu na watoto wako wiki ijayo?",
+              "answers": [
+                "Wakati wa kwenda kitandani au mazoea ya mchana",
+                "Wakati wa chakula cha mchana au mazoea ya asubuhi",
+                "Kwa nyakati tofauti ambayo haikutajwa hapa"
+              ],
+              "answer-type": "multiple-choice"
             }
           ]
         }
@@ -1005,99 +635,152 @@
       "color": "#1A5276",
       "topics": [
         {
-          "id": 1,
-          "title": "GUMA KW’IHANGIRO",
+          "id": 0,
+          "title": "FANYA IWE NGUMU",
           "color": "#1A5276",
-          "video": "PURSUE A GOAL VIDEO IS MISSING.mp4",
+          "video": "",
           "questions": [
             {
-              "question": "Wabonye gute muri rusangi iyi reresi?",
-              "answer-type": "multiple-choice",
+              "question": "Nini ulikuwa mtazamo wako wa jumla kuhusu video hii?",
               "answers": [
-                "Nayikunze kandi yari ngira kamaro",
-                "Ntaho mpagaze kandi nibaza ko vyoba vyari ngira kamaro canke atari ngira kamaro",
-                "Sinahimbawe n'iyi reresi kandi nibaza ko itari ngira kamaro"
-              ]
+                "Niliipenda na ilikuwa inafaa sana.",
+                "Nipo kati na nafikiri ilikuwa si yenye kufaa wala maana.",
+                "Sikufurahia video na nilifikiri ilikuwa haifai."
+              ],
+              "answer-type": "multiple-choice"
             },
             {
-              "question": "Ni ubuhe bushobozi buri muri ino reresi?",
-              "answer-type": "multiple-choice",
+              "question": "Je, ni nini lengo la shughuli hii?",
               "answers": [
-                "Gukorera mu runani rwiza",
-                "Kutadohoka",
-                "kwubaka ubwonko bwawe"
+                "Kusaidia watoto wako kujifunza kushinda changamoto na kuepuka kukata tamaa",
+                "Kusaidia watoto wako kuthamini mtu fulani ambaye ni mchapa kazi/mwenye juhudi na kamwe hakati tamaa",
+                "Kusaidia watoto wako kufuatilia vitu kwa ukaribu"
               ],
-              "correct-answer": 2
-            },
-            {
-              "question": "Ni iyihe ntumbero y'agakorwa?",
               "answer-type": "multiple-choice",
-              "answers": [
-                "Gufasha abanyeshure kwiga ukugene bakorera mu runani",
-                "Gufasha abanyeshure ukwitaho",
-                "Gufasha abanyeshure gutegura amahangiro n’integuro zishikwako"
-              ],
-              "correct-answer": 3
-            },
-            {
-              "question": "Iyo abanyeshure badashobora gutegura ihangiro ,woshobora kubafasha gute?",
-              "answer-type": "multiple-choice",
-              "answers": [
-                "Kubabwira bacape ifoto y’umuryango wabo",
-                "Gusangira n’abanyeshure bawe uturorero twawe nyezina mu kubatera intege",
-                "Kubwira abanyeshure kutabibamwo"
-              ],
-              "correct-answer": 2
-            },
-            {
-              "question": "Ni ikihe kintu wotegerezwa kuba uriko urakora?",
-              "answer-type": "multiple-choice",
-              "answers": [
-                "Sinosubira guhitamwo abanyeshure barenga babiri mu gusabikanya amahangiro n’intambuko zabo",
-                "Notegerezwa kuvuga gusa ku mahangiro yanje",
-                "Notegerezwa kubwira abanyeshure ko amahangiro yabo ari mabi"
-              ],
               "correct-answer": 1
             },
             {
-              "question": "Ni ikihe kintu wotegerezwa kuba uriko urakora?",
-              "answer-type": "multiple-choice",
+              "question": "What should you do first?",
               "answers": [
-                "Notegerezwa gusaba abanyeshure kwerekana amahangiro yabo",
-                "Notegerezwa gutanga uturorero tw’ibishobisho",
-                "Notegerezwa kwumviriza neza abanyeshure no kubabwira uko vyagenze"
+                "Unapaswa kujadili shughuli na watoto",
+                "Unapaswa kuanza kwa kucheza mchezo rahisi wakujirudia kama vile kushika mpira",
+                "Unapaswa kufanya mchezo uwe mgumu kiasi kidogo kwa kila mzunguuko"
               ],
-              "correct-answer": 3
-            },
-            {
-              "question": "Ni ikihe kintu utotegerezwa kuba uriko urakora?",
               "answer-type": "multiple-choice",
-              "answers": [
-                "Sinotegerezwa gutera intege abanyeshure",
-                "Sinotegerezwa kubwira abanyeshure uko amahingiro yoshobora kuba ameze",
-                "Sinotegerezwa gusobanura ico arico ihangiro nyezina,rigezweho kandi rishikwako"
-              ],
               "correct-answer": 2
             },
             {
-              "question": "Ni ibiki umunyeshure yoshobora kuvuga mu mwanya wo kurongora ikiganiro c’aka gakorwa?",
-              "answer-type": "multiple-choice",
+              "question": "Je, unapaswa kufanya nini kwa mara ya pili?",
               "answers": [
-                "Aka gakorwa karamfashije kwitaho gukurikira",
-                "Twotegerezwa ibihe vyose kubaza ibibazo bitanu mu gihe turi mu matati",
-                "Igihe cose nkeneye gukora ikintu ,ubu rero noshobora gushiraho integuro n’intambuko nshobora gukoresha bukebuke kugira nshike kw’ihangiro ryanje"
+                "Unapaswa kujadili shughuli na watoto",
+                "Unapaswa kuanza kwa kucheza mchezo rahisi wakujirudia kama vile kushika mpira",
+                "Unapaswa kufanya mchezo uwe mgumu kiasi kidogo kwa kila mzunguuko"
               ],
+              "answer-type": "multiple-choice",
               "correct-answer": 3
             },
             {
-              "question": "Iyo ushoboye kwimenyereza aka gakorwa imisi myinshi ikurikirana ,wokora iki?",
-              "answer-type": "multiple-choice",
+              "question": "What should you do last?",
               "answers": [
-                "Gusaba abanyeshure basangiye amahangiro yabo ubuheruka kutabamwo",
-                "Guhindura ubwoko bw’amhangiro ibihe vyose wimenyereje .shiraho amahangiro y’ishure umusi umwe n’amahangiro yo gukorana n’umuryango ubukurikira hanyuma amahangiro y’ibikorwa vy’inyuma y’ishure uwundi musi inyuma y’ivyo.",
-                "Hitamwo barya banyeshure nyene mu gusabikanya amahangiro yabo buri musi."
+                "Unapaswa kujadili shughuli na watoto",
+                "Unapaswa kuanza kwa kucheza mchezo rahisi wakujirudia kama vile kushika mpira",
+                "Unapaswa kufanya mchezo uwe mgumu kiasi kidogo kwa kila mzunguuko"
               ],
+              "answer-type": "multiple-choice",
+              "correct-answer": 1
+            },
+            {
+              "question": "Ni wakati gani unapata muda wa kupumuzika na watoto wako?",
+              "answers": [
+                "Wakati wa kwenda kitandani au mazoea ya mchana",
+                "Wakati wa chakula cha mchan au mazoea ya saubuhi ",
+                "Kwa nyakati tofauti ambayo haikutajwa hapa"
+              ],
+              "answer-type": "multiple-choice"
+            },
+            {
+              "question": "Ni wakati gani utacheza mchezo huu na watoto wako wiki ijayo?",
+              "answers": [
+                "Wakati wa kwenda kitandani au mazoea ya mchana",
+                "Wakati wa chakula cha asubuhi au mazoea ya asubuhi",
+                "Kwa nyakati tofauti ambayo haikutajwa hapa"
+              ],
+              "answer-type": "multiple-choice"
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "title": "WIMBO WA NYOTA",
+          "color": "#1A5276",
+          "video": "",
+          "questions": [
+            {
+              "question": "Nini ulikuwa mtazamo wako wa jumla kuhusu video hii?",
+              "answers": [
+                "Niliipenda na ilikuwa inafaa",
+                "Nipo kati na nafikiri ilikuwa si yenye kufaa wala maana",
+                "Sikufurahia video na nilifikiri ilikuwa haifai"
+              ],
+              "answer-type": "multiple-choice"
+            },
+            {
+              "question": "Je, ni nini lengo la shughuli hii?",
+              "answers": [
+                "kusaidia watoto wako kuelekeza umakini na kukumbuka kanuni mbali mbali",
+                "Kusaidia watoto kuwa watulivu na kudhibiti uwazi wao wakati wa vipindi vigumu",
+                "Kusaidia watoto kuthamini mtu fulani ambaye ni chapakazi/mwenye juhudi na kamwe hakati tamaa"
+              ],
+              "answer-type": "multiple-choice",
               "correct-answer": 2
+            },
+            {
+              "question": "Unapaswa kufanya nini kwanza?",
+              "answers": [
+                "Unapaswa kujadili shughuli na watoto",
+                "Unapaswa kuwafanya watoto wako kufikiria kuhusu mtu fulani ambaye ni nyota kwao",
+                "Unapaswa kufundisha mtoto wako wimbo wa kuimba kwa ajili ya nyota wao"
+              ],
+              "answer-type": "multiple-choice",
+              "correct-answer": 2
+            },
+            {
+              "question": "Unapaswa kufanya nini kwa mara ya pili?",
+              "answers": [
+                "Unapaswa kujadili shughuli na watoto",
+                "Unapaswa kuwafanya watoto wako kufikiria kuhusu mtu fulani ambaye ni nyota kwao",
+                "Unapaswa kufundisha mtoto wako wimbo wa kuimba kwa ajili ya nyota wao"
+              ],
+              "answer-type": "multiple-choice",
+              "correct-answer": 3
+            },
+            {
+              "question": "Unapaswa kufanya nini kwa mara ya mwisho?",
+              "answers": [
+                "Unapaswa kujadili shughuli na watoto",
+                "Unapaswa kuwafanya watoto wako kufikiria kuhusu mtu fulani ambaye ni nyota kwao",
+                "Unapaswa kufundisha mtoto wako wimbo wa kuimba kwa ajili ya nyota wao"
+              ],
+              "answer-type": "multiple-choice",
+              "correct-answer": 1
+            },
+            {
+              "question": "Ni wakati gani unapata muda wa kupumuzika na watoto wako?",
+              "answers": [
+                "Kwa siku wakati nina pumzika kufanya kazi ya nyumbani",
+                "Wakati tunatembea pamoja njiani kwenda sokoni",
+                "Kwa nyakati tofauti ambayo haikutajwa hapa"
+              ],
+              "answer-type": "multiple-choice"
+            },
+            {
+              "question": "Ni wakati gani utacheza mchezo huu na watoto wako wiki ijayo?",
+              "answers": [
+                "Kwa siku wakati nina pumzika kufanya kazi ya nyumbani",
+                "Wakati tunatembea pamoja njiani kwenda sokoni",
+                "Kwa nyakati tofauti ambayo haikutajwa hapa"
+              ],
+              "answer-type": "multiple-choice"
             }
           ]
         }
