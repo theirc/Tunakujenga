@@ -1,4 +1,4 @@
-package com.ryanwarsaw.coach_erevu.logging;
+package com.ryanwarsaw.tunakujenga.logging;
 
 import android.os.Environment;
 import android.text.TextUtils;

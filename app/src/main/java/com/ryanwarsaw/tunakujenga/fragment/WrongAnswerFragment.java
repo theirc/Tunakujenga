@@ -1,4 +1,4 @@
-package com.ryanwarsaw.coach_erevu.fragment;
+package com.ryanwarsaw.tunakujenga.fragment;
 
 import android.app.AlertDialog;
 import android.app.AlertDialog.Builder;
@@ -10,9 +10,9 @@ import android.graphics.Color;
 import android.os.Bundle;
 
 import com.google.gson.GsonBuilder;
-import com.ryanwarsaw.coach_erevu.R;
-import com.ryanwarsaw.coach_erevu.activity.QuizActivity;
-import com.ryanwarsaw.coach_erevu.model.Preferences;
+import com.ryanwarsaw.tunakujenga.R;
+import com.ryanwarsaw.tunakujenga.activity.QuizActivity;
+import com.ryanwarsaw.tunakujenga.model.Preferences;
 
 public class WrongAnswerFragment extends DialogFragment {
 

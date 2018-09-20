@@ -1,4 +1,4 @@
-package com.ryanwarsaw.coach_erevu.model;
+package com.ryanwarsaw.tunakujenga.model;
 
 import com.google.gson.annotations.SerializedName;
 

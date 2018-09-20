@@ -1,4 +1,4 @@
-package com.ryanwarsaw.coach_erevu.activity;
+package com.ryanwarsaw.tunakujenga.activity;
 
 import android.content.DialogInterface;
 import android.os.Bundle;
@@ -11,15 +11,15 @@ import android.support.v7.widget.Toolbar;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
-import com.ryanwarsaw.coach_erevu.CommonUtilities;
-import com.ryanwarsaw.coach_erevu.MainActivity;
-import com.ryanwarsaw.coach_erevu.R;
-import com.ryanwarsaw.coach_erevu.adapter.MultiChoiceAdapter;
-import com.ryanwarsaw.coach_erevu.fragment.FreeTextFragment;
-import com.ryanwarsaw.coach_erevu.fragment.MultipleChoiceFragment;
-import com.ryanwarsaw.coach_erevu.model.Preferences;
-import com.ryanwarsaw.coach_erevu.model.Question;
-import com.ryanwarsaw.coach_erevu.model.Topic;
+import com.ryanwarsaw.tunakujenga.CommonUtilities;
+import com.ryanwarsaw.tunakujenga.MainActivity;
+import com.ryanwarsaw.tunakujenga.R;
+import com.ryanwarsaw.tunakujenga.adapter.MultiChoiceAdapter;
+import com.ryanwarsaw.tunakujenga.fragment.FreeTextFragment;
+import com.ryanwarsaw.tunakujenga.fragment.MultipleChoiceFragment;
+import com.ryanwarsaw.tunakujenga.model.Preferences;
+import com.ryanwarsaw.tunakujenga.model.Question;
+import com.ryanwarsaw.tunakujenga.model.Topic;
 
 import java.util.Objects;
 

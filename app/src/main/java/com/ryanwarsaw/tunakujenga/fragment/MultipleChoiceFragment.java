@@ -1,4 +1,4 @@
-package com.ryanwarsaw.coach_erevu.fragment;
+package com.ryanwarsaw.tunakujenga.fragment;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
@@ -11,10 +11,10 @@ import android.widget.TextView;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
-import com.ryanwarsaw.coach_erevu.R;
-import com.ryanwarsaw.coach_erevu.adapter.MultiChoiceAdapter;
-import com.ryanwarsaw.coach_erevu.model.Preferences;
-import com.ryanwarsaw.coach_erevu.model.Question;
+import com.ryanwarsaw.tunakujenga.R;
+import com.ryanwarsaw.tunakujenga.adapter.MultiChoiceAdapter;
+import com.ryanwarsaw.tunakujenga.model.Preferences;
+import com.ryanwarsaw.tunakujenga.model.Question;
 
 public class MultipleChoiceFragment extends Fragment implements View.OnClickListener {
 

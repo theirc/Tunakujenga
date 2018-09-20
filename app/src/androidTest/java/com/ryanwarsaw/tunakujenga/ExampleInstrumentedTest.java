@@ -1,4 +1,4 @@
-package com.ryanwarsaw.coach_erevu;
+package com.ryanwarsaw.tunakujenga;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
     // Context of the app under test.
     Context appContext = InstrumentationRegistry.getTargetContext();
 
-    assertEquals("com.ryanwarsaw.coach_erevu", appContext.getPackageName());
+    assertEquals("com.ryanwarsaw.tunakujenga", appContext.getPackageName());
   }
 }
