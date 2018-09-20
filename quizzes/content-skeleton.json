@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "preferences": {
+    "quiz-button-color": "#59A4CB",
+    "video-button-color": "#5ACBF0",
+    "wrong-answer-button-color": "#59A4CB"
+  },
+  "categories": [
+    {
+      "title": "Level 1",
+      "color": "#F8C90F",
+      "topics": [
+        {
+          "video": "",
+          "json": "What is Missing.txt.json"
+        },
+        {
+          "video": "",
+          "json": "Clues.txt.json"
+        }
+      ]
+    },
+    {
+      "title": "Level 2",
+      "color": "#4CB648",
+      "topics": [
+        {
+          "video": "",
+          "json": "Feeling Faces.txt.json"
+        },
+        {
+          "video": "",
+          "json": "Belly Breathing.txt.json"
+        }
+      ]
+    },
+    {
+      "title": "Level 3",
+      "color": "#3B8CCB",
+      "topics": [
+        {
+          "video": "",
+          "json": "Nature Friends.txt.json"
+        },
+        {
+          "video": "",
+          "json": "Human Knot.txt.json"
+        }
+      ]
+    },
+    {
+      "title": "Level 4",
+      "color": "#8C4499",
+      "topics": [
+        {
+          "video": "",
+          "json": "Story Solutions.txt.json"
+        },
+        {
+          "video": "",
+          "json": "Removing Blame.txt.json"
+        }
+      ]
+    },
+    {
+      "title": "Level 5",
+      "color": "#EE3B48",
+      "topics": [
+        {
+          "video": "",
+          "json": "Make it Harder.txt.json"
+        },
+        {
+          "video": "",
+          "json": "A Song for a Star.txt.json"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": 0,
+  "title": "DONDOO",
+  "color": "#45B39D",
+  "video": "",
+  "questions": [
+    {
+      "question": "Nini ulikuwa mtazamo wako wa jumla kuhusu video hii?",
+      "answers": [
+        "Niliipenda na ilikuwa inafaa.",
+        "Nipo kati na nafikiri ilikuwa si yenye kufaa wala maana.",
+        "Sikufurahia video na nilifikiri ilikuwa haifai"
+      ],
+      "answer-type": "multiple-choice"
+    },
+    {
+      "question": "Je, ni nini lengo la shughuli hii?",
+      "answers": [
+        "Kusaidia watoto kuwa watulivu na kusimamia hisia zao wakati wa vipindi vigumu",
+        "Kusaidia watoto kufuatilia vitu vipya kwa ukaribu",
+        "Kusaidia watoto wako kuwa rafiki mwema kwa wengine"
+      ],
+      "answer-type": "multiple-choice",
+      "correct-answer": 2
+    },
+    {
+      "question": "Unapaswa kufanya nini kwanza?",
+      "answers": [
+        "Unapaswa kufikiri kitu katika kundi fulani, lakini usiwaambie watoto ni kipi, lakini tu waambie tu hilo kundi",
+        "Unapaswa kujadili shughuli na watoto",
+        "Unapaswa kuuliza watoto kubahatisha kuhusu nini unachofikiria kwa kuuliza maswali yenye majibu ya Ndio au Hapana"
+      ],
+      "answer-type": "multiple-choice",
+      "correct-answer": 1
+    },
+    {
+      "question": "Unapaswa kufanya nini kwa mara ya pili?",
+      "answers": [
+        "Unapaswa kufikiri kitu katika kundi fulani, lakini usiwaambie watoto ni kipi, lakini tu waambie tu hilo kundi",
+        "Unapaswa kujadili shughuli na watoto",
+        "Unapaswa kuuliza watoto kubahatisha kuhusu nini unachofikiria kwa kuuliza maswali yenye majibu ya Ndio au Hapana"
+      ],
+      "answer-type": "multiple-choice",
+      "correct-answer": 3
+    },
+    {
+      "question": "Unapaswa kufanya nini kwa mara ya mwisho?",
+      "answers": [
+        "Unapaswa kufikiri kitu katika kundi fulani, lakini usiwaambie watoto ni kipi, lakini tu waambie tu hilo kundi",
+        "Unapaswa kujadili shughuli na watoto",
+        "Unapaswa kuuliza watoto kubahatisha kuhusu nini unachofikiria kwa kuuliza maswali yenye majibu ya Ndio au Hapana"
+      ],
+      "answer-type": "multiple-choice",
+      "correct-answer": 2
+    },
+    {
+      "question": "Ni wakati gani unapata muda wa kupumuzika na watoto wako?",
+      "answers": [
+        "Wakati wa mlo/chakula cha jioni",
+        "Wakati tunaenda sokoni pamoja",
+        "Kwa nyakati tofauti ambao haukutajwa hapa "
+      ],
+      "answer-type": "multiple-choice"
+    },
+    {
+      "question": "Ni wakati gani utacheza mchezo huu na watoto wako wiki ijayo?",
+      "answers": [
+        "Wakati wa mlo/chakula cha jioni",
+        "Wakati tunaenda sokoni pamoja",
+        "Kwa nyakati tofauti ambao haukutajwa hapa"
+      ],
+      "answer-type": "multiple-choice"
+    }
+  ]
+}

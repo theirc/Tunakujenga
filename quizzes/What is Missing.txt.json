@@ -1,0 +1,75 @@
+{
+  "id": 0,
+  "title": "KIPI KINAKOSEKANA?",
+  "color": "#45B39D",
+  "video": "",
+  "questions": [
+    {
+      "question": "Nini ulikuwa mtazamo wako wa jumla kuhusu video hii?",
+      "answers": [
+        "Niliipenda na ilikuwa inafaa",
+        "Nipo kati na nafikiri ilikuwa si yenye kufaa wala maana",
+        "Sikufurahia video na nilifikiri ilikuwa haifai"
+      ],
+      "answer-type": "multiple-choice"
+    },
+    {
+      "question": "Je, ni nini lengo la shughuli hii?",
+      "answers": [
+        "Kusaidia watoto wako kutambua njia za kutatua mgogoro",
+        "Kusaidia watoto wako kuwa makini na kukumbuka taarifa",
+        "Kusaidia watoto wako kufuatilia vitu vipya kwa ukaribu"
+      ],
+      "answer-type": "multiple-choice",
+      "correct-answer": 2
+    },
+    {
+      "question": "Je, unapaswa kufanya nini kwanza?",
+      "answers": [
+        "Unapaswa kujadili shighuli na watoto",
+        "Unapaswa kutoa kifaa kimoja wakati watoto hawakitafuti na uliza watoto kinachokosekana ni kipi",
+        "Unapaswa kuondoa vifaa vichache nje na acha watoto wako wajifunze"
+      ],
+      "answer-type": "multiple-choice",
+      "correct-answer": 3
+    },
+    {
+      "question": "Je, unapaswa kufanya nini kwa mara ya pili?",
+      "answers": [
+        "Unapaswa kujadili shighuli na watoto",
+        "Unapaswa kutoa kifaa kimoja wakati watoto hawakitafuti na uliza watoto kinachokosekana ni kipi",
+        "Unapaswa kuondoa vifaa vichache nje na acha watoto wako wajifunze"
+      ],
+      "answer-type": "multiple-choice",
+      "correct-answer": 2
+    },
+    {
+      "question": "Je, unapaswa kufanya nini kwa mara ya mwisho?",
+      "answers": [
+        "Unapaswa kujadili shighuli na watoto",
+        "Unapaswa kutoa kifaa kimoja wakati watoto hawakitafuti na uliza watoto kinachokosekana ni kipi",
+        "Unapaswa kuondoa vifaa vichache nje na acha watoto wako wajifunze "
+      ],
+      "answer-type": "multiple-choice",
+      "correct-answer": 1
+    },
+    {
+      "question": "Ni wakati gani unapata muda wa kupumuzika na watoto wako?",
+      "answers": [
+        "Asubuhi kabla watoto wangu hawajaenda shule ",
+        "Wakati wa kusali",
+        "Kwa nyakati tofauti ambayo haukutajwa hapa"
+      ],
+      "answer-type": "multiple-choice"
+    },
+    {
+      "question": "Ni wakati gani utacheza mchezo huu na watoto wako wiki ijayo?",
+      "answers": [
+        "Asubuhi kabla watoto wangu hawajaenda shule ",
+        "Wakati wa kusali",
+        "Kwa nyakati tofauti ambayo haukutajwa hapa"
+      ],
+      "answer-type": "multiple-choice"
+    }
+  ]
+}
