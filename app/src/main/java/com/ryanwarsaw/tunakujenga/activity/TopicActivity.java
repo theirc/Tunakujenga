@@ -1,4 +1,4 @@
-package com.ryanwarsaw.coach_erevu.activity;
+package com.ryanwarsaw.tunakujenga.activity;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -10,11 +10,11 @@ import android.widget.ListView;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
-import com.ryanwarsaw.coach_erevu.CommonUtilities;
-import com.ryanwarsaw.coach_erevu.R;
-import com.ryanwarsaw.coach_erevu.adapter.TopicAdapter;
-import com.ryanwarsaw.coach_erevu.model.Category;
-import com.ryanwarsaw.coach_erevu.model.Preferences;
+import com.ryanwarsaw.tunakujenga.CommonUtilities;
+import com.ryanwarsaw.tunakujenga.R;
+import com.ryanwarsaw.tunakujenga.adapter.TopicAdapter;
+import com.ryanwarsaw.tunakujenga.model.Category;
+import com.ryanwarsaw.tunakujenga.model.Preferences;
 
 import java.util.Objects;
 

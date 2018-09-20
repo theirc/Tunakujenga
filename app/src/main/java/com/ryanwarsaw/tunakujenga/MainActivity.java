@@ -1,4 +1,4 @@
-package com.ryanwarsaw.coach_erevu;
+package com.ryanwarsaw.tunakujenga;
 
 import android.Manifest.permission;
 import android.content.Context;
@@ -13,9 +13,9 @@ import android.support.v7.app.AppCompatActivity;
 import android.widget.ListView;
 
 import com.google.gson.GsonBuilder;
-import com.ryanwarsaw.coach_erevu.adapter.CategoryAdapter;
-import com.ryanwarsaw.coach_erevu.logging.LoggingHandler;
-import com.ryanwarsaw.coach_erevu.model.Curriculum;
+import com.ryanwarsaw.tunakujenga.adapter.CategoryAdapter;
+import com.ryanwarsaw.tunakujenga.logging.LoggingHandler;
+import com.ryanwarsaw.tunakujenga.model.Curriculum;
 
 import java.io.ByteArrayOutputStream;
 import java.io.File;
@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
   private static LoggingHandler loggingHandler;
 
   private static String CONTENT_FILENAME = "content.json";
-  private static String LOG_FILENAME = "coach_erevu_log.csv";
+  private static String LOG_FILENAME = "tunakujenga_log.csv";
   private static String[] PERMISSIONS = {
       permission.WRITE_EXTERNAL_STORAGE,
       permission.READ_EXTERNAL_STORAGE
@@ -44,7 +44,7 @@ public class MainActivity extends AppCompatActivity {
     super.onCreate(savedInstanceState);
     setContentView(R.layout.activity_main);
 
-    CommonUtilities.setActivityStatusBarColor(this, R.color.button);
+    CommonUtilities.setActivityStatusBarColor(this, R.color.colorPrimary);
 
     // Mostly for first-time users, makes sure we have proper permissions before inflating content.
     if (!hasPermissions(this, PERMISSIONS)) {

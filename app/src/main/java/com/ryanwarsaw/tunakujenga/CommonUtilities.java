@@ -1,4 +1,4 @@
-package com.ryanwarsaw.coach_erevu;
+package com.ryanwarsaw.tunakujenga;
 
 import android.app.Activity;
 import android.content.Context;

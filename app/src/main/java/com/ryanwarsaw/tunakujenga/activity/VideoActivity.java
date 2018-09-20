@@ -1,4 +1,4 @@
-package com.ryanwarsaw.coach_erevu.activity;
+package com.ryanwarsaw.tunakujenga.activity;
 
 import android.net.Uri;
 import android.os.Bundle;
@@ -22,9 +22,9 @@ import com.google.android.exoplayer2.upstream.DataSpec;
 import com.google.android.exoplayer2.upstream.FileDataSource;
 import com.google.android.exoplayer2.upstream.FileDataSource.FileDataSourceException;
 import com.google.gson.GsonBuilder;
-import com.ryanwarsaw.coach_erevu.MainActivity;
-import com.ryanwarsaw.coach_erevu.R;
-import com.ryanwarsaw.coach_erevu.model.Preferences;
+import com.ryanwarsaw.tunakujenga.MainActivity;
+import com.ryanwarsaw.tunakujenga.R;
+import com.ryanwarsaw.tunakujenga.model.Preferences;
 
 import java.io.File;
 

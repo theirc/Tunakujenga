@@ -1,4 +1,4 @@
-package com.ryanwarsaw.coach_erevu.adapter;
+package com.ryanwarsaw.tunakujenga.adapter;
 
 import android.content.Context;
 import android.content.Intent;
@@ -12,12 +12,12 @@ import android.widget.Button;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
-import com.ryanwarsaw.coach_erevu.CommonUtilities;
-import com.ryanwarsaw.coach_erevu.MainActivity;
-import com.ryanwarsaw.coach_erevu.R;
-import com.ryanwarsaw.coach_erevu.activity.TopicActivity;
-import com.ryanwarsaw.coach_erevu.model.Category;
-import com.ryanwarsaw.coach_erevu.model.Curriculum;
+import com.ryanwarsaw.tunakujenga.CommonUtilities;
+import com.ryanwarsaw.tunakujenga.MainActivity;
+import com.ryanwarsaw.tunakujenga.R;
+import com.ryanwarsaw.tunakujenga.activity.TopicActivity;
+import com.ryanwarsaw.tunakujenga.model.Category;
+import com.ryanwarsaw.tunakujenga.model.Curriculum;
 
 public class CategoryAdapter extends ArrayAdapter<Category> {
 

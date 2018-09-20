@@ -1,4 +1,4 @@
-<img align="center" src="https://i.imgur.com/7K5cAzO.png">
+<img align="center" src="https://i.imgur.com/zdAdlza.png">
 
 ## Setup
 
@@ -8,11 +8,11 @@
 
 ## Installation
 
-Coach Erevu is distributed as an APK file (ending in `.apk`). To install the app you need to move this
+Tunakujenga is distributed as an APK file (ending in `.apk`). To install the app you need to move this
 file to your Android device by downloading it from the internet. Once you have done so, you can start the
 installation by double tapping the installed file. Please make sure you satisfied all pre-requisites first.
 
-Visit [here](https://github.com/ryanwarsaw/coach-erevu/releases) to download the latest version of the APK file.
+Visit [here](https://github.com/ryanwarsaw/Tunakujenga/releases) to download the latest version of the APK file.
 
 You can put a copy of this on your device by
 * Going to the above URL directly with the browser on the Android device, or
@@ -21,7 +21,7 @@ You can put a copy of this on your device by
 ## Content
 
 ### Custom content
-By default Coach Erevu will use the content files provided to it when the app was originally compiled. These files are
+By default Tunakujenga will use the content files provided to it when the app was originally compiled. These files are
 embedded within the app and can't be changed. However, the app looks inside the `Download/` folder on its host device to check for updated content. To use custom content files (including videos), place files in the `Download/` folder on the target Android device. When the app is restarted, it should use those files instead.
 
 The content file should be named `content.json` and both the content and video files should be in the root directory of the
@@ -36,7 +36,7 @@ The content file should be named `content.json` and both the content and video f
 ```
 
 #### Changing content
-If you need to adjust the language in a certain question, add a question, change a title, etc., all of that can be done be editing `content.json`. If you don't yet have a copy of this file, go [here](https://github.com/ryanwarsaw/coach-erevu/blob/master/app/src/main/res/raw/content.json) and download it.
+If you need to adjust the language in a certain question, add a question, change a title, etc., all of that can be done be editing `content.json`. If you don't yet have a copy of this file, go [here](https://github.com/ryanwarsaw/Tunakujenga/blob/master/app/src/main/res/raw/content.json) and download it.
 
 ##### To change `content.json`
 1. Open `content.json` in a text editor (Notepad, or TextEdit will work).
@@ -49,7 +49,7 @@ If you need to adjust the language in a certain question, add a question, change
 8. Restart the app on your Android device.
 
 ##### To add or change a video
-The video for each week is referenced within `content.json`. And, by default, most weeks use `week1.mp4`. So, if you are adding or changing a video that is not `week1.mp4`, check `content.json` to make sure the app will know about your change. For instance, if you upload `week3.mp4`, make sure the `Activity 3` section of `content.json` refernces `week3.mp4` and not week1.mp4.
+The video for each week is referenced within `content.json`. And, by default, most weeks use `week1.mp4`. So, if you are adding or changing a video that is not `week1.mp4`, check `content.json` to make sure the app will know about your change. For instance, if you upload `week3.mp4`, make sure the `Activity 3` section of `content.json` references `week3.mp4` and not week1.mp4.
 
 1. On your laptop, and open **Android File Transfer** (see above for download link).
 3. In Android File Transfer, find the `Download` folder.
@@ -63,12 +63,12 @@ All content quiz questions fall under two categories: `multiple-choice` and `fre
 don't need to have a correct answer, but if one is desired, set the `correct-answer` property within the question format. **Additionally, when you set the `correct-answer` property, do not use a zero-based index** (i.e. four questions = 0..1..2..3) it should be (1..2..3..4). 
 
 Please remember to increment the `version` property with each content change you make, so that these changes are properly reflected
-within the analytics file. This will not cause an error, but it will make it hard to aggregate data at a later date. See the format used for the content file [here](https://github.com/ryanwarsaw/coach-erevu/blob/master/app/src/main/res/raw/content.json).
+within the analytics file. This will not cause an error, but it will make it hard to aggregate data at a later date. See the format used for the content file [here](https://github.com/ryanwarsaw/Tunakujenga/blob/master/app/src/main/res/raw/content.json).
 
 Example:
 ```
 {
-  "version": 0.1,
+  "version": 1,
   "weeks": [
     {
       "id": "0",

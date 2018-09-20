@@ -1,4 +1,4 @@
-package com.ryanwarsaw.coach_erevu;
+package com.ryanwarsaw.tunakujenga;
 
 import static org.junit.Assert.assertEquals;
 
