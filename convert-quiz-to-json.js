@@ -3,7 +3,26 @@ const fs = require('fs');
 const quizFolder = './quizzes/';
 
 function cleanString (input) {
-  return input.replace(/\s\s+/g, ' ').replace(/\s+\?/g, '?').replace(/\?\s+/g, '?');
+  input = input
+    .replace(/^\s+/, '')
+    .replace(/\s\s+/g, ' ')
+    .replace(/\s+\?/g, '?')
+    .replace(/\?\s+/g, '?')
+    .replace(/\s+$/g, '')
+    .replace(/“/g, '"')
+    .replace(/”/g, '"')
+    .replace(/’/g, '\'')
+    .replace(/ ,/g, ',')
+    ;
+
+
+  let m = input.match(/,[^\s]/);
+  while (m) {
+    input = input.substr(0, m.index + 1) + ' ' + input.substr(m.index + 1);
+    m = input.match(/,[^\s]/)
+  }
+
+  return input;
 }
 
 let jsonFilesWritten = 0;
@@ -26,12 +45,17 @@ fs.readdir(quizFolder, (err, files) => {
 
       while (lines.length > 0) {
         let question = cleanString(lines.shift());
+        let answers = [];
 
-        let answers = [
-          lines.shift(),
-          lines.shift(),
-          lines.shift()
-        ];
+        let line = '';
+        while (answers.length < 3) {
+          while (line.length === 0) {
+            line = lines.shift();
+          }
+          // console.log(line);
+          answers.push(line);
+          line = '';
+        }
 
         let correctAnswer = -1;
         answers = answers.map((answer, index) => {
@@ -44,12 +68,12 @@ fs.readdir(quizFolder, (err, files) => {
         });
 
         answers = answers.map(answer => {
-          return cleanString(answer);
+          return cleanString(answer.replace(/^\s*[a-z]\s*\.?\s+/, ''));
         });
 
         lines.shift();
 
-        question = question.replace(/\d+\.\s+/, '');
+        question = question.replace(/^\d+\s*\.\s*/, '');
         question = question.replace('(chagua moja)', '');
         question = question.replace('(chagua jibu moja sahihi)', '');
         question = question.replace('(chagua moja ya majibu hapa chini)', '');
@@ -57,6 +81,9 @@ fs.readdir(quizFolder, (err, files) => {
         question = question.replace('(choose one correct answer)', '');
         question = question.replace('(chagua jibu sahihi)', '');
         question = question.replace('(chagua jimu moja sahii)', '');
+        question = question.replace('’', '\'');
+        question = question.replace('“', '"');
+        question = question.replace('”', '"');
 
         if (question.indexOf('?') !== question.length - 1 && question.charCodeAt(question.length-1) == 32) {
           question = question.substr(0, question.length -1);

@@ -58,9 +58,9 @@
             {
               "question": "Je, unapaswa kufanya nini kwa mara ya mwisho?",
               "answers": [
-                "Unapaswa kujadili shighuli na watoto",
+                "Unapaswa kujadili shughuli na watoto",
                 "Unapaswa kutoa kifaa kimoja wakati watoto hawakitafuti na uliza watoto kinachokosekana ni kipi",
-                "Unapaswa kuondoa vifaa vichache nje na acha watoto wako wajifunze "
+                "Unapaswa kuondoa vifaa vichache nje na acha watoto wako wajifunze"
               ],
               "answer-type": "multiple-choice",
               "correct-answer": 1
@@ -68,7 +68,7 @@
             {
               "question": "Ni wakati gani unapata muda wa kupumuzika na watoto wako?",
               "answers": [
-                "Asubuhi kabla watoto wangu hawajaenda shule ",
+                "Asubuhi kabla watoto wangu hawajaenda shule",
                 "Wakati wa kusali",
                 "Kwa nyakati tofauti ambayo haukutajwa hapa"
               ],
@@ -77,7 +77,7 @@
             {
               "question": "Ni wakati gani utacheza mchezo huu na watoto wako wiki ijayo?",
               "answers": [
-                "Asubuhi kabla watoto wangu hawajaenda shule ",
+                "Asubuhi kabla watoto wangu hawajaenda shule",
                 "Wakati wa kusali",
                 "Kwa nyakati tofauti ambayo haukutajwa hapa"
               ],
@@ -145,7 +145,7 @@
               "answers": [
                 "Wakati wa mlo/chakula cha jioni",
                 "Wakati tunaenda sokoni pamoja",
-                "Kwa nyakati tofauti ambao haukutajwa hapa "
+                "Kwa nyakati tofauti ambao haukutajwa hapa"
               ],
               "answer-type": "multiple-choice"
             },
@@ -194,7 +194,7 @@
             {
               "question": "Je, unapaswa kufanya nini kwanza?",
               "answers": [
-                "Unapaswa kuigiza hisia tofauti , na watoto watakisia hii ni hisia gani.",
+                "Unapaswa kuigiza hisia tofauti, na watoto watakisia hii ni hisia gani.",
                 "Unapaswa omba watoto kuonesha wanavyojisikia wakati wanahisi hisia hii",
                 "Unapaswa kujadili shughuli na watoto"
               ],
@@ -204,7 +204,7 @@
             {
               "question": "Je, unapaswa kufanya nini kwa mara ya pili?",
               "answers": [
-                "Unapaswa kuigiza hisia tofauti , na watoto watakisia hii ni hisia gani",
+                "Unapaswa kuigiza hisia tofauti, na watoto watakisia hii ni hisia gani",
                 "Unapaswa omba watoto kuonesha wanavyojisikia wakati wanahisi hisia hii",
                 "Unapaswa kujadili shughuli na watoto"
               ],
@@ -214,7 +214,7 @@
             {
               "question": "Je, unapaswa kufanya nini kwa mara ya mwisho?",
               "answers": [
-                "Unapaswa kuigiza hisia tofauti , na watoto watakisia hii ni hisia gani.",
+                "Unapaswa kuigiza hisia tofauti, na watoto watakisia hii ni hisia gani.",
                 "Unapaswa omba watoto kuonesha wanavyojisikia wakati wanahisi hisia hii",
                 "Unapaswa kujadili shughuli na watoto"
               ],
@@ -270,7 +270,7 @@
               "question": "Unapaswa kufanya nini kwanza?",
               "answers": [
                 "Vuta pumzi ndani nazitoe nje taratibu wakati ukitanua na kuminya tumbo",
-                "Unapaswa kujadili shghuli na mtoto",
+                "Unapaswa kujadili shughuli na mtoto",
                 "Weka mkono mmoja kwenye tumbo na mkono mwingine kwenye kifua halafu fumba macho"
               ],
               "answer-type": "multiple-choice",
@@ -290,7 +290,7 @@
               "question": "Unapaswa kufanya nini kwa mara ya mwisho?",
               "answers": [
                 "Vuta pumzi ndani nazitoe nje taratibu wakati ukitanua na kuminya tumbo",
-                "Unapaswa kujadili shghuli na mtoto",
+                "Unapaswa kujadili shughuli na mtoto",
                 "Weka mkono mmoja kwenye tumbo na mkono mwingine kwenye kifua halafu fumba macho"
               ],
               "answer-type": "multiple-choice",
@@ -446,7 +446,7 @@
               "question": "Je, unapaswa kufanya nini mara ya mwisho?",
               "answers": [
                 "Unapaswa kuomba watoto waachiliane mikono wenyewe: kwanza bila kuongea na baadae wawasiliane/waambizane",
-                "Unapaswa kujadili shuguli na watoto",
+                "Unapaswa kujadili shughuli na watoto",
                 "Unapaswa kuomba watoto tano (5) au zaidi kusimama kwenye mduara na kuinua mikono ya watu wengine kwa kushikana kwa pamoja"
               ],
               "answer-type": "multiple-choice",
@@ -545,8 +545,8 @@
             {
               "question": "Ni wakati gani utacheza mchezo huu na watoto wako wiki ijayo?",
               "answers": [
-                "Baada ya kufika nyumbani kutoka kanisani au mskitini",
-                "Wakati ninaanda chakula cha jioni",
+                "Baada ya kufika nyumbani kutoka kanisani au msikitini",
+                "Wakati ninaandaa chakula cha jioni",
                 "Kwa nyakati tofauti ambayo haikutajwa hapa"
               ],
               "answer-type": "multiple-choice"
@@ -693,7 +693,7 @@
               "question": "Ni wakati gani unapata muda wa kupumuzika na watoto wako?",
               "answers": [
                 "Wakati wa kwenda kitandani au mazoea ya mchana",
-                "Wakati wa chakula cha mchan au mazoea ya saubuhi ",
+                "Wakati wa chakula cha mchan au mazoea ya saubuhi",
                 "Kwa nyakati tofauti ambayo haikutajwa hapa"
               ],
               "answer-type": "multiple-choice"

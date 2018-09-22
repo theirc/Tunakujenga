@@ -46,9 +46,9 @@
     {
       "question": "Je, unapaswa kufanya nini kwa mara ya mwisho?",
       "answers": [
-        "Unapaswa kujadili shighuli na watoto",
+        "Unapaswa kujadili shughuli na watoto",
         "Unapaswa kutoa kifaa kimoja wakati watoto hawakitafuti na uliza watoto kinachokosekana ni kipi",
-        "Unapaswa kuondoa vifaa vichache nje na acha watoto wako wajifunze "
+        "Unapaswa kuondoa vifaa vichache nje na acha watoto wako wajifunze"
       ],
       "answer-type": "multiple-choice",
       "correct-answer": 1
@@ -56,7 +56,7 @@
     {
       "question": "Ni wakati gani unapata muda wa kupumuzika na watoto wako?",
       "answers": [
-        "Asubuhi kabla watoto wangu hawajaenda shule ",
+        "Asubuhi kabla watoto wangu hawajaenda shule",
         "Wakati wa kusali",
         "Kwa nyakati tofauti ambayo haukutajwa hapa"
       ],
@@ -65,7 +65,7 @@
     {
       "question": "Ni wakati gani utacheza mchezo huu na watoto wako wiki ijayo?",
       "answers": [
-        "Asubuhi kabla watoto wangu hawajaenda shule ",
+        "Asubuhi kabla watoto wangu hawajaenda shule",
         "Wakati wa kusali",
         "Kwa nyakati tofauti ambayo haukutajwa hapa"
       ],
