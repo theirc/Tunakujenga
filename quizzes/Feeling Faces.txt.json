@@ -26,7 +26,7 @@
     {
       "question": "Je, unapaswa kufanya nini kwanza?",
       "answers": [
-        "Unapaswa kuigiza hisia tofauti , na watoto watakisia hii ni hisia gani.",
+        "Unapaswa kuigiza hisia tofauti, na watoto watakisia hii ni hisia gani.",
         "Unapaswa omba watoto kuonesha wanavyojisikia wakati wanahisi hisia hii",
         "Unapaswa kujadili shughuli na watoto"
       ],
@@ -36,7 +36,7 @@
     {
       "question": "Je, unapaswa kufanya nini kwa mara ya pili?",
       "answers": [
-        "Unapaswa kuigiza hisia tofauti , na watoto watakisia hii ni hisia gani",
+        "Unapaswa kuigiza hisia tofauti, na watoto watakisia hii ni hisia gani",
         "Unapaswa omba watoto kuonesha wanavyojisikia wakati wanahisi hisia hii",
         "Unapaswa kujadili shughuli na watoto"
       ],
@@ -46,7 +46,7 @@
     {
       "question": "Je, unapaswa kufanya nini kwa mara ya mwisho?",
       "answers": [
-        "Unapaswa kuigiza hisia tofauti , na watoto watakisia hii ni hisia gani.",
+        "Unapaswa kuigiza hisia tofauti, na watoto watakisia hii ni hisia gani.",
         "Unapaswa omba watoto kuonesha wanavyojisikia wakati wanahisi hisia hii",
         "Unapaswa kujadili shughuli na watoto"
       ],
