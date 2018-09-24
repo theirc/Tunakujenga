@@ -2,6 +2,7 @@ package com.ryanwarsaw.tunakujenga.adapter;
 
 import android.content.Context;
 import android.content.Intent;
+import android.os.Bundle;
 import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
 import android.view.LayoutInflater;
@@ -16,6 +17,8 @@ import com.ryanwarsaw.tunakujenga.CommonUtilities;
 import com.ryanwarsaw.tunakujenga.MainActivity;
 import com.ryanwarsaw.tunakujenga.R;
 import com.ryanwarsaw.tunakujenga.activity.ActionActivity;
+import com.ryanwarsaw.tunakujenga.activity.QuizActivity;
+import com.ryanwarsaw.tunakujenga.activity.VideoActivity;
 import com.ryanwarsaw.tunakujenga.model.Category;
 import com.ryanwarsaw.tunakujenga.model.Preferences;
 import com.ryanwarsaw.tunakujenga.model.Topic;
@@ -51,15 +54,39 @@ public class TopicAdapter extends ArrayAdapter<Topic> {
       public void onClick(View view) {
         final Button button = view.findViewById(R.id.menu_button);
         final Topic topic = category.findTopicByTitle((String) button.getText());
-        final Intent intent = new Intent(context, ActionActivity.class);
         final Gson gson = new GsonBuilder().create();
 
         MainActivity.getLoggingHandler().write(TopicAdapter.this.getClass()
                 .getSimpleName(), "TOPIC_SELECTED", topic.getTitle());
-        intent.putExtra("topic", gson.toJson(topic));
-        intent.putExtra("preferences", gson.toJson(preferences));
 
-        context.startActivity(intent);
+        final Bundle args = new Bundle();
+        args.putString("topic", gson.toJson(topic));
+        args.putString("preferences", gson.toJson(preferences));
+
+        // If this topic contains a quiz and video activity, send them to the action selection menu.
+        if (topic.getQuestions() != null && topic.getVideoName() != null) {
+          final Intent actionIntent = new Intent(context, ActionActivity.class);
+          actionIntent.putExtras(args);
+          context.startActivity(actionIntent);
+        } else {
+          // If the topic only contains a quiz then launch user directly into quiz activity.
+          if (topic.getQuestions() != null && topic.getQuestions().size() > 0) {
+            MainActivity.getLoggingHandler().write(TopicAdapter.this.getClass().getSimpleName(),
+                    "BUTTON_QUIZ_PRESS", topic.getTitle());
+            final Intent quizIntent = new Intent(context, QuizActivity.class);
+            quizIntent.putExtras(args);
+            context.startActivity(quizIntent);
+          }
+
+          // If the topic only contains a video then launch user directly into video activity.
+          if (topic.getVideoName() != null) {
+            MainActivity.getLoggingHandler().write(TopicAdapter.this.getClass().getSimpleName(),
+                    "BUTTON_VIDEO_PRESS", topic.getTitle());
+            final Intent videoIntent = new Intent(context, VideoActivity.class);
+            videoIntent.putExtras(args);
+            context.startActivity(videoIntent);
+          }
+        }
       }
     });
 
