@@ -4,12 +4,12 @@
   <string name="take_quiz_button">Fanya jaribio</string>
   <string name="submit_button">Tanga</string>
   <string name="okay_button">Sawa</string>
-  <string name="question">Ikibazo ca</string>
+  <string name="question">Swali</string>
   <string name="of">ya</string>
   <string name="free_text_hint">Injiza inyishu yawe ngaha…</string>
   <string name="wrong_answer_dialog">Hili sio jibu sahihi, jibu sahihi ni:</string>
   <string name="quiz_end">Mzazi ni mwarimu wa kwanza wa mtoto. Asante kwa kusoma pamoja na sisi mafunzo ya hisia za kijamii na ukumbuke kwamba kila usiku na kila asubuhi ni muda wa Tunakujenga!</string>
-  <string name="quiz_end_title">Tunakujenga</string>
+  <string name="quiz_end_title">Mwisho wa Jaribio</string>
   <string name="multiple_choice_hint">Chagua moja:</string>
   <string name="question_header">%1$s : Ikibazo ca (%2$d ya %3$d)</string>
   <string name="logo_description">Tunakujenga logo</string>
