@@ -94,8 +94,8 @@
             {
               "question": "Nini ulikuwa mtazamo wako wa jumla kuhusu video hii?",
               "answers": [
-                "Niliipenda na ilikuwa inafaa.",
-                "Nipo kati na nafikiri ilikuwa si yenye kufaa wala maana.",
+                "Niliipenda na ilikuwa inafaa",
+                "Nipo kati na nafikiri ilikuwa si yenye kufaa wala maana",
                 "Sikufurahia video na nilifikiri ilikuwa haifai"
               ],
               "answer-type": "multiple-choice"
@@ -175,8 +175,8 @@
             {
               "question": "Nini ulikuwa mtazamo wako wa jumla kuhusu video hii?",
               "answers": [
-                "Niliipenda na ilikuwa inafaa.",
-                "Nipo kati na nafikiri ilikuwa si yenye kufaa wala maana.",
+                "Niliipenda na ilikuwa inafaa",
+                "Nipo kati na nafikiri ilikuwa si yenye kufaa wala maana",
                 "Sikufurahia video na nilifikiri ilikuwa haifai"
               ],
               "answer-type": "multiple-choice"
@@ -194,7 +194,7 @@
             {
               "question": "Je, unapaswa kufanya nini kwanza?",
               "answers": [
-                "Unapaswa kuigiza hisia tofauti, na watoto watakisia hii ni hisia gani.",
+                "Unapaswa kuigiza hisia tofauti, na watoto watakisia hii ni hisia gani",
                 "Unapaswa omba watoto kuonesha wanavyojisikia wakati wanahisi hisia hii",
                 "Unapaswa kujadili shughuli na watoto"
               ],
@@ -214,7 +214,7 @@
             {
               "question": "Je, unapaswa kufanya nini kwa mara ya mwisho?",
               "answers": [
-                "Unapaswa kuigiza hisia tofauti, na watoto watakisia hii ni hisia gani.",
+                "Unapaswa kuigiza hisia tofauti, na watoto watakisia hii ni hisia gani",
                 "Unapaswa omba watoto kuonesha wanavyojisikia wakati wanahisi hisia hii",
                 "Unapaswa kujadili shughuli na watoto"
               ],
@@ -331,8 +331,8 @@
             {
               "question": "Nini ulikuwa mtazamo wako wa jumla kuhusu video hii?",
               "answers": [
-                "Niliipenda na ilikuwa inafaa.",
-                "Nipo kati na nafikiri ilikuwa si yenye kufaa wala maana.",
+                "Niliipenda na ilikuwa inafaa",
+                "Nipo kati na nafikiri ilikuwa si yenye kufaa wala maana",
                 "Sikufurahia video na nilifikiri ilikuwa haifai"
               ],
               "answer-type": "multiple-choice"
@@ -342,7 +342,7 @@
               "answers": [
                 "Kusaidia watoto wako kuthamini mtu fulani ambaye ni mchapa-kazi/ mwenye juhudi na kamwe hakati tamaa",
                 "Kusaidia watoto wako kujumuika/kuwasiliana vizuri na wengine na kuwa rafiki mwema",
-                "Kusaidia watoto wako kukumbuka vitu vipya kwa urahisi."
+                "Kusaidia watoto wako kukumbuka vitu vipya kwa urahisi"
               ],
               "answer-type": "multiple-choice",
               "correct-answer": 2
@@ -406,8 +406,8 @@
             {
               "question": "Nini ulikuwa mtazamo wako wa jumla kuhusu video hii?",
               "answers": [
-                "Niliipenda na ilikuwa inafaa.",
-                "Nipo kati na nafikiri ilikuwa si yenye kufaa wala maana.",
+                "Niliipenda na ilikuwa inafaa",
+                "Nipo kati na nafikiri ilikuwa si yenye kufaa wala maana",
                 "Sikufurahia video na nilifikiri ilikuwa haifai"
               ],
               "answer-type": "multiple-choice"
@@ -487,8 +487,8 @@
             {
               "question": "Nini ulikuwa mtazamo wako wa jumla kuhusu video hii?",
               "answers": [
-                "Niliipenda na ilikuwa inafaa.",
-                "Nipo kati na nafikiri ilikuwa si yenye kufaa wala maana.",
+                "Niliipenda na ilikuwa inafaa",
+                "Nipo kati na nafikiri ilikuwa si yenye kufaa wala maana",
                 "Sikufurahia video na nilifikiri ilikuwa haifai"
               ],
               "answer-type": "multiple-choice"
@@ -564,15 +564,15 @@
               "answers": [
                 "Nimeipenda na ilikua yenye kufaa sana",
                 "Nipo kati na nifikiri ilikua si yenye kufaa wala yenye maana",
-                "Sikufurahia na nilikiri ilikua haifai."
+                "Sikufurahia na nilikiri ilikua haifai"
               ],
               "answer-type": "multiple-choice"
             },
             {
               "question": "Je, ni nini lengo la shughuli hii?",
               "answers": [
-                "kusaidia watoto wako kuthamini mtu fulani mwenye juhudi na asiyekata tamaa kamwe.",
-                "Kusaidia watoto wako kutambua hisia kwa wengine.",
+                "kusaidia watoto wako kuthamini mtu fulani mwenye juhudi na asiyekata tamaa kamwe",
+                "Kusaidia watoto wako kutambua hisia kwa wengine",
                 "kusaidia watoto wako kutatua matatizo bila kulaumu mtu yeyote"
               ],
               "answer-type": "multiple-choice",
@@ -643,9 +643,9 @@
             {
               "question": "Nini ulikuwa mtazamo wako wa jumla kuhusu video hii?",
               "answers": [
-                "Niliipenda na ilikuwa inafaa sana.",
-                "Nipo kati na nafikiri ilikuwa si yenye kufaa wala maana.",
-                "Sikufurahia video na nilifikiri ilikuwa haifai."
+                "Niliipenda na ilikuwa inafaa sana",
+                "Nipo kati na nafikiri ilikuwa si yenye kufaa wala maana",
+                "Sikufurahia video na nilifikiri ilikuwa haifai"
               ],
               "answer-type": "multiple-choice"
             },
